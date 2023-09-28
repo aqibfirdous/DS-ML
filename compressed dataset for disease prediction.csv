@@ -1,0 +1,1410 @@
+LocationAbbr,Topic,Question,DataValue,LowConfidenceLimit,HighConfidenceLimit
+AK,Alcohol,Alcohol use among youth,22.66,6.1,42.2
+AK,Alcohol,Alcohol use before pregnancy,54.154545,13.1,92.4
+AK,Alcohol,Binge drinking prevalence among youth,12.833333,2.1,24.7
+AK,Alcohol,Chronic liver disease mortality,18.062727,5.6,93.2
+AK,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,18.836363,8.9,28.7
+AK,Asthma,Hospitalizations for asthma,4.4457693,1.45,9.85
+AK,Cancer,"Cancer of the colon and rectum (colorectal), incidence",23.9,1.3,45.6
+AK,Cancer,"Cancer of the female breast, mortality",18.766666,5.8,35.9
+AK,Cancer,"Cancer of the female cervix, mortality",1.8104167,0.9,3.2
+AK,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.661842,0.5,8.9
+AK,Cancer,"Cancer of the prostate, mortality",14.892187,3.8,32.9
+AK,Cancer,"Invasive cancer (all sites combined), incidence",238.35782,8.9,513.7
+AK,Cancer,"Invasive cancer (all sites combined), mortality",134.66171,19.6,268.4
+AK,Cancer,"Invasive cancer of the cervix, incidence",5.2328124,0.6,9.5
+AK,Cancer,"Invasive cancer of the female breast, incidence",65.12232,2.1,167.3
+AK,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.11,0.3,19.7
+AK,Cancer,"Invasive cancer of the prostate, incidence",45.983036,1.6,129.6
+AK,Cardiovascular Disease,Mortality from coronary heart disease,69.3,63.3,75.4
+AK,Cardiovascular Disease,Mortality from diseases of the heart,146.6,135.6,157.6
+AK,Cardiovascular Disease,Mortality from heart failure,60.8,53.8,67.9
+AK,Tobacco,Cigarette smoking before pregnancy,27.3,16.7,41.3
+AL,Alcohol,Alcohol use among youth,28.7625,12.2,42.3
+AL,Alcohol,Alcohol use before pregnancy,46.0375,8.9,66.3
+AL,Alcohol,Binge drinking prevalence among youth,11.975,2.1,23.4
+AL,Alcohol,Chronic liver disease mortality,12.793636,4.7,26.6
+AL,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.13,8.6,36.7
+AL,Asthma,Asthma mortality rate,12.773529,3.2,37.7
+AL,Cancer,"Cancer of the colon and rectum (colorectal), incidence",32.75,0.0,57.4
+AL,Cancer,"Cancer of the female breast, mortality",25.016666,2.5,32.6
+AL,Cancer,"Cancer of the female cervix, mortality",3.80625,2.3,6.1
+AL,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.135,1.1,6.4
+AL,Cancer,"Cancer of the prostate, mortality",24.762121,1.7,60.5
+AL,Cancer,"Invasive cancer (all sites combined), incidence",272.5297,0.5,615.6
+AL,Cancer,"Invasive cancer (all sites combined), mortality",145.825,18.6,249.9
+AL,Cancer,"Invasive cancer of the cervix, incidence",6.554878,0.1,14.4
+AL,Cancer,"Invasive cancer of the female breast, incidence",64.36072,0.1,155.9
+AL,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.8785715,0.0,24.9
+AL,Cancer,"Invasive cancer of the prostate, incidence",68.42593,0.1,164.1
+AL,Cardiovascular Disease,Mortality from heart failure,128.1,125.0,131.3
+AL,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years,109.27,108.35,110.19
+AL,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,304.4,292.2,316.7
+AL,Oral Health,Preventive dental care before pregnancy,52.6,46.0,59.0
+AR,Alcohol,Alcohol use among youth,28.4125,9.5,47.2
+AR,Alcohol,Alcohol use before pregnancy,46.662067,7.3,66.9
+AR,Alcohol,Binge drinking prevalence among youth,12.292857,0.9,27.0
+AR,Alcohol,Chronic liver disease mortality,11.806364,3.6,24.3
+AR,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.32,9.4,37.7
+AR,Asthma,Asthma mortality rate,11.820371,4.2,29.4
+AR,Asthma,Emergency department visit rate for asthma,43.34931,5.76,129.31
+AR,Asthma,Hospitalizations for asthma,7.5468054,0.95,18.64
+AR,Cancer,"Cancer of the colon and rectum (colorectal), incidence",34.73125,0.3,55.7
+AR,Cancer,"Cancer of the female breast, mortality",22.59359,2.0,35.0
+AR,Cancer,"Cancer of the female cervix, mortality",3.921875,2.5,8.4
+AR,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.56125,1.3,6.5
+AR,Cancer,"Cancer of the prostate, mortality",23.360937,15.8,59.3
+AR,Cancer,"Invasive cancer (all sites combined), incidence",288.70782,2.3,651.4
+AR,Cancer,"Invasive cancer (all sites combined), mortality",152.22734,21.6,259.0
+AR,Cancer,"Invasive cancer of the cervix, incidence",7.346667,0.1,24.4
+AR,Cancer,"Invasive cancer of the female breast, incidence",65.45089,0.5,154.3
+AR,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.046492,0.0,27.2
+AR,Cancer,"Invasive cancer of the prostate, incidence",65.67411,0.3,159.6
+AR,Cardiovascular Disease,Mortality from heart failure,97.26667,24.3,138.7
+AR,Cardiovascular Disease,Mortality from total cardiovascular diseases,323.1,314.0,332.3
+AR,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,3.0,2.2,4.0
+AZ,Alcohol,Alcohol use among youth,33.033333,18.3,50.2
+AZ,Alcohol,Alcohol use before pregnancy,48.833332,18.3,67.5
+AZ,Alcohol,Binge drinking prevalence among youth,16.823076,5.0,27.0
+AZ,Alcohol,Chronic liver disease mortality,22.909859,4.1,105.8
+AZ,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.841666,6.4,26.2
+AZ,Asthma,Asthma mortality rate,12.71383,5.0,26.1
+AZ,Asthma,Emergency department visit rate for asthma,53.504803,13.72,159.06
+AZ,Asthma,Hospitalizations for asthma,8.345715,1.36,36.76
+AZ,Cancer,"Cancer of the colon and rectum (colorectal), incidence",25.22,0.5,44.2
+AZ,Cancer,"Cancer of the female breast, mortality",18.033035,5.1,35.3
+AZ,Cancer,"Cancer of the female cervix, mortality",2.4025,1.1,5.7
+AZ,Cancer,"Cancer of the oral cavity and pharynx, mortality",1.9858695,0.4,4.1
+AZ,Cancer,"Cancer of the prostate, mortality",16.475,2.5,39.9
+AZ,Cancer,"Invasive cancer (all sites combined), incidence",256.04297,6.0,536.3
+AZ,Cancer,"Invasive cancer (all sites combined), mortality",133.99532,56.3,245.1
+AZ,Cancer,"Invasive cancer of the cervix, incidence",3.9419644,0.1,10.4
+AZ,Cancer,"Invasive cancer of the female breast, incidence",67.483925,1.9,158.9
+AZ,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",5.8945312,0.1,17.4
+AZ,Cancer,"Invasive cancer of the prostate, incidence",48.908035,0.7,124.0
+AZ,Cardiovascular Disease,Mortality from heart failure,34.65,23.9,44.4
+AZ,Diabetes,Hospitalization with diabetes as a listed diagnosis,221.19,219.57,222.81
+AZ,"Nutrition, Physical Activity, and Weight Status",Computer use among high school students,45.3,42.3,48.3
+AZ,"Nutrition, Physical Activity, and Weight Status",Television viewing among high school students,26.6,21.5,32.4
+CA,Alcohol,Alcohol use among youth,25.777779,7.8,47.1
+CA,Alcohol,Binge drinking prevalence among youth,9.914286,2.3,28.6
+CA,Alcohol,Chronic liver disease mortality,14.816477,2.8,55.2
+CA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,21.55,8.3,51.2
+CA,Asthma,Asthma mortality rate,11.902597,3.1,41.6
+CA,Asthma,Emergency department visit rate for asthma,57.695,52.05,62.57
+CA,Asthma,Hospitalizations for asthma,8.5825,0.74,22.32
+CA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",34.13125,9.9,55.4
+CA,Cancer,"Cancer of the female breast, mortality",19.70893,4.3,37.1
+CA,Cancer,"Cancer of the female cervix, mortality",2.2669642,0.5,4.1
+CA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.2539062,0.4,4.8
+CA,Cancer,"Cancer of the prostate, mortality",18.325,3.6,51.0
+CA,Cancer,"Invasive cancer (all sites combined), incidence",376.98126,107.8,666.2
+CA,Cancer,"Invasive cancer (all sites combined), mortality",137.5461,39.0,242.0
+CA,Cancer,"Invasive cancer of the cervix, incidence",6.9696426,2.3,10.4
+CA,Cancer,"Invasive cancer of the female breast, incidence",112.60268,32.0,205.0
+CA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.223437,2.6,20.1
+CA,Cancer,"Invasive cancer of the prostate, incidence",93.7875,20.6,215.2
+CA,Cancer,"Invasive melanoma, incidence",27.8,27.5,28.2
+CA,Cardiovascular Disease,Mortality from heart failure,60.1,58.4,61.8
+CA,"Nutrition, Physical Activity, and Weight Status",Television viewing among high school students,19.5,14.0,26.4
+CO,Alcohol,Alcohol use among youth,28.65,17.4,38.6
+CO,Alcohol,Alcohol use before pregnancy,55.2775,9.0,93.1
+CO,Alcohol,Binge drinking prevalence among youth,13.87,8.8,20.3
+CO,Alcohol,Chronic liver disease mortality,19.064394,4.8,101.8
+CO,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.75,8.6,30.6
+CO,Asthma,Asthma mortality rate,9.448648,3.7,18.6
+CO,Asthma,Emergency department visit rate for asthma,43.685,23.38,96.11
+CO,Asthma,Hospitalizations for asthma,7.0564704,2.42,26.07
+CO,Cancer,"Cancer of the colon and rectum (colorectal), incidence",24.742857,0.7,38.3
+CO,Cancer,"Cancer of the female breast, mortality",17.011606,3.8,34.6
+CO,Cancer,"Cancer of the female cervix, mortality",1.665625,0.7,2.9
+CO,Cancer,"Cancer of the oral cavity and pharynx, mortality",1.906383,0.4,4.2
+CO,Cancer,"Cancer of the prostate, mortality",19.34468,2.2,65.2
+CO,Cancer,"Invasive cancer (all sites combined), incidence",250.9672,2.0,484.6
+CO,Cancer,"Invasive cancer (all sites combined), mortality",120.671875,37.6,193.7
+CO,Cancer,"Invasive cancer of the cervix, incidence",4.25625,0.1,10.1
+CO,Cancer,"Invasive cancer of the female breast, incidence",71.452675,0.6,156.5
+CO,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",6.8316665,0.0,18.7
+CO,Cancer,"Invasive cancer of the prostate, incidence",55.72768,0.2,138.1
+CO,Cancer,"Melanoma, mortality",0.5,0.3,0.8
+CO,Cardiovascular Disease,Mortality from coronary heart disease,33.7,25.4,43.9
+CO,Cardiovascular Disease,Mortality from heart failure,55.7,41.7,69.1
+CO,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as any diagnosis,106.56,101.93,111.19
+CO,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,6.83,4.88,8.77
+CO,Disability,Disability among adults aged >= 65 years,32.1,31.0,33.2
+CT,Alcohol,Alcohol use among youth,28.892,8.5,44.7
+CT,Alcohol,Alcohol use before pregnancy,50.809757,19.8,83.3
+CT,Alcohol,Binge drinking prevalence among youth,12.913333,2.0,23.0
+CT,Alcohol,Chronic liver disease mortality,9.307258,3.1,22.2
+CT,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,12.275,6.0,27.3
+CT,Asthma,Asthma mortality rate,10.687879,3.3,26.1
+CT,Cancer,"Cancer of the colon and rectum (colorectal), incidence",37.3,17.0,56.7
+CT,Cancer,"Cancer of the female breast, mortality",18.15,4.7,33.4
+CT,Cancer,"Cancer of the female cervix, mortality",1.8684211,0.9,4.4
+CT,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.01875,0.5,3.9
+CT,Cancer,"Cancer of the prostate, mortality",18.42381,2.8,46.4
+CT,Cancer,"Invasive cancer (all sites combined), incidence",421.3742,79.7,728.7
+CT,Cancer,"Invasive cancer (all sites combined), mortality",130.24374,16.3,235.2
+CT,Cancer,"Invasive cancer of the cervix, incidence",6.995349,2.3,15.2
+CT,Cancer,"Invasive cancer of the female breast, incidence",121.98125,16.9,216.7
+CT,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.432143,3.6,23.4
+CT,Cancer,"Invasive cancer of the prostate, incidence",117.58775,16.0,239.5
+CT,Cancer,"Melanoma, mortality",1.8,1.5,2.1
+CT,Cardiovascular Disease,Mortality from heart failure,20.65,13.7,27.4
+CT,Cardiovascular Disease,Mortality from total cardiovascular diseases,253.9,246.4,261.3
+CT,Chronic Kidney Disease,Mortality with end-stage renal disease,49.2,47.3,51.2
+CT,Overarching Conditions,Poverty,9.8,9.2,10.4
+CT,Tobacco,Cigarette smoking before pregnancy,7.9,5.7,11.0
+CT,Tobacco,Current cigarette smoking among youth,3.7,2.5,5.5
+DC,Alcohol,Alcohol use among youth,24.475863,6.8,49.6
+DC,Alcohol,Alcohol use before pregnancy,55.025,15.0,96.2
+DC,Alcohol,Binge drinking prevalence among youth,9.85625,1.4,27.8
+DC,Alcohol,Chronic liver disease mortality,9.461843,3.5,20.8
+DC,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,18.26,10.4,35.4
+DC,Asthma,Hospitalizations for asthma,15.003654,0.67,40.99
+DC,Cancer,"Cancer of the colon and rectum (colorectal), incidence",30.983334,0.7,45.9
+DC,Cancer,"Cancer of the female breast, mortality",28.635937,11.1,47.8
+DC,Cancer,"Cancer of the female cervix, mortality",3.4229167,1.9,7.4
+DC,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.02375,0.8,7.4
+DC,Cancer,"Cancer of the prostate, mortality",27.520313,7.5,53.9
+DC,Cancer,"Invasive cancer (all sites combined), incidence",260.2,0.3,595.9
+DC,Cancer,"Invasive cancer (all sites combined), mortality",141.36696,34.2,272.5
+DC,Cancer,"Invasive cancer of the cervix, incidence",7.3871794,0.7,20.4
+DC,Cancer,"Invasive cancer of the female breast, incidence",82.68542,1.6,154.2
+DC,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.9202385,2.4,21.9
+DC,Cancer,"Invasive cancer of the prostate, incidence",81.64687,0.7,198.9
+DC,Cancer,"Melanoma, mortality",0.8,0.5,1.2
+DC,Cardiovascular Disease,Mortality from heart failure,60.9,55.0,66.8
+DC,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as any diagnosis among Medicare-eligible persons aged >= 65 years,41.3,38.72,43.88
+DC,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,54.5,36.6,69.8
+DC,Diabetes,Hospitalization with diabetes as a listed diagnosis,49.61,46.8,52.42
+DE,Alcohol,Alcohol use among youth,31.183332,10.5,46.2
+DE,Alcohol,Alcohol use before pregnancy,45.906384,4.5,78.2
+DE,Alcohol,Binge drinking prevalence among youth,15.757143,6.3,22.6
+DE,Alcohol,Chronic liver disease mortality,10.363636,2.5,23.0
+DE,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,12.88,6.1,25.2
+DE,Asthma,Hospitalizations for asthma,11.195,4.43,23.88
+DE,Cancer,"Cancer of the colon and rectum (colorectal), incidence",18.5,0.3,51.4
+DE,Cancer,"Cancer of the colon and rectum (colorectal), mortality",15.25,12.4,18.3
+DE,Cancer,"Cancer of the female breast, mortality",25.798437,18.9,38.1
+DE,Cancer,"Cancer of the female cervix, mortality",2.978125,1.5,6.4
+DE,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.96625,0.8,6.2
+DE,Cancer,"Cancer of the prostate, mortality",21.307812,12.6,48.6
+DE,Cancer,"Invasive cancer (all sites combined), incidence",320.4383,0.5,675.1
+DE,Cancer,"Invasive cancer (all sites combined), mortality",148.90794,25.0,277.4
+DE,Cancer,"Invasive cancer of the cervix, incidence",6.443939,1.2,19.7
+DE,Cancer,"Invasive cancer of the female breast, incidence",89.59896,2.0,182.8
+DE,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.557407,0.2,27.4
+DE,Cancer,"Invasive cancer of the prostate, incidence",93.46354,0.9,197.5
+DE,Cardiovascular Disease,Mortality from coronary heart disease,84.0,79.1,89.0
+DE,Cardiovascular Disease,Mortality from heart failure,76.8,68.6,85.0
+DE,Tobacco,Cigarette smoking before pregnancy,34.5,30.7,38.5
+FL,Alcohol,Alcohol use among youth,28.37143,11.0,40.5
+FL,Alcohol,Alcohol use before pregnancy,58.711113,40.3,83.4
+FL,Alcohol,Binge drinking prevalence among youth,12.33125,4.3,19.4
+FL,Alcohol,Chronic liver disease mortality,11.182639,2.1,25.4
+FL,Asthma,Asthma mortality rate,9.463636,2.9,27.6
+FL,Asthma,Emergency department visit rate for asthma,41.534706,1.19,152.8
+FL,Asthma,Hospitalizations for asthma,10.277857,1.07,29.66
+FL,Cancer,"Cancer of the colon and rectum (colorectal), incidence",22.7,0.0,46.7
+FL,Cancer,"Cancer of the colon and rectum (colorectal), mortality",18.7,18.4,19.0
+FL,Cancer,"Cancer of the female breast, mortality",20.299038,5.3,37.2
+FL,Cancer,"Cancer of the female cervix, mortality",2.859375,0.8,5.5
+FL,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.7303572,0.6,6.0
+FL,Cancer,"Cancer of the prostate, mortality",18.861458,2.6,49.0
+FL,Cancer,"Invasive cancer (all sites combined), incidence",331.36484,0.6,692.2
+FL,Cancer,"Invasive cancer (all sites combined), mortality",148.2836,39.4,297.5
+FL,Cancer,"Invasive cancer of the cervix, incidence",6.3614583,0.1,10.9
+FL,Cancer,"Invasive cancer of the female breast, incidence",76.15893,0.1,168.2
+FL,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.793651,0.0,29.9
+FL,Cancer,"Invasive cancer of the prostate, incidence",71.435715,0.1,170.7
+FL,Cancer,"Melanoma, mortality",5.4,5.2,5.6
+FL,"Nutrition, Physical Activity, and Weight Status",Soda consumption among high school students,13.3,11.7,15.0
+GA,Alcohol,Alcohol use among youth,21.653847,1.2,39.5
+GA,Alcohol,Alcohol use before pregnancy,39.808,6.7,69.7
+GA,Alcohol,Binge drinking prevalence among youth,6.4125,0.1,15.8
+GA,Alcohol,Chronic liver disease mortality,8.825,1.4,21.4
+GA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,20.275,9.7,67.7
+GA,Asthma,Asthma mortality rate,10.829091,3.7,27.8
+GA,Asthma,Emergency department visit rate for asthma,47.380627,5.3,114.34
+GA,Asthma,Hospitalizations for asthma,5.275,0.37,13.52
+GA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",25.327272,0.0,51.1
+GA,Cancer,"Cancer of the female breast, mortality",19.022917,2.5,30.8
+GA,Cancer,"Cancer of the female cervix, mortality",2.3822222,0.5,4.4
+GA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3888888,0.2,4.5
+GA,Cancer,"Cancer of the prostate, mortality",16.995832,0.8,55.4
+GA,Cancer,"Invasive cancer (all sites combined), incidence",271.97968,0.4,567.4
+GA,Cancer,"Invasive cancer (all sites combined), mortality",124.76797,10.8,220.4
+GA,Cancer,"Invasive cancer of the cervix, incidence",5.284375,0.1,11.7
+GA,Cancer,"Invasive cancer of the female breast, incidence",67.44553,0.1,149.0
+GA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.289286,0.2,21.8
+GA,Cancer,"Invasive cancer of the prostate, incidence",66.46875,0.1,154.4
+GA,Cardiovascular Disease,Mortality from coronary heart disease,90.4,87.7,93.1
+GA,Cardiovascular Disease,Mortality from diseases of the heart,197.4,191.8,203.1
+GA,Cardiovascular Disease,Mortality from heart failure,80.45,65.8,95.0
+GA,Chronic Kidney Disease,Mortality with end-stage renal disease,7.1,5.5,9.1
+GA,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,14.98,14.71,15.25
+GA,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,18.0,11.3,27.2
+GU,Alcohol,Alcohol use among youth,21.89,8.4,37.8
+GU,Alcohol,Binge drinking prevalence among youth,8.354546,1.6,18.0
+GU,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,20.914286,5.4,46.0
+GU,"Nutrition, Physical Activity, and Weight Status",Overweight or obesity among high school students,40.1,36.1,44.2
+HI,Alcohol,Alcohol use among youth,24.529167,11.7,40.0
+HI,Alcohol,Alcohol use before pregnancy,54.57647,26.2,82.0
+HI,Alcohol,Binge drinking prevalence among youth,12.021428,5.3,21.7
+HI,Alcohol,Chronic liver disease mortality,8.851818,2.5,25.0
+HI,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.564285,6.5,30.5
+HI,Asthma,Asthma mortality rate,18.322222,8.4,38.5
+HI,Asthma,Emergency department visit rate for asthma,55.97316,26.51,117.4
+HI,Asthma,Hospitalizations for asthma,7.3202,2.62,11.67
+HI,Cancer,"Cancer of the colon and rectum (colorectal), incidence",44.1,23.6,64.4
+HI,Cancer,"Cancer of the female breast, mortality",18.31375,4.4,38.2
+HI,Cancer,"Cancer of the female cervix, mortality",2.1,0.9,5.0
+HI,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.28875,1.0,7.7
+HI,Cancer,"Cancer of the prostate, mortality",15.845122,2.7,63.7
+HI,Cancer,"Invasive cancer (all sites combined), incidence",474.42108,213.6,892.9
+HI,Cancer,"Invasive cancer (all sites combined), mortality",139.78516,28.1,278.6
+HI,Cancer,"Invasive cancer of the cervix, incidence",7.2897434,3.4,17.8
+HI,Cancer,"Invasive cancer of the female breast, incidence",145.85818,49.3,302.6
+HI,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",14.417708,5.0,32.9
+HI,Cancer,"Invasive cancer of the prostate, incidence",108.07596,31.6,259.7
+HI,Cancer,"Invasive melanoma, incidence",32.0,30.2,33.9
+HI,Cancer,"Melanoma, mortality",1.5,1.2,1.8
+HI,Cardiovascular Disease,Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,13.62,12.94,14.3
+HI,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),35.9,28.9,44.0
+HI,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,34.3,28.3,40.4
+HI,Diabetes,Hospitalization with diabetes as a listed diagnosis,175.73,173.55,177.91
+HI,Reproductive Health,Folic acid supplementation,39.1,33.7,44.7
+HI,Reproductive Health,Postpartum checkup,88.2,85.7,90.2
+IA,Alcohol,Alcohol use among youth,25.281818,8.7,39.4
+IA,Alcohol,Alcohol use before pregnancy,51.940624,27.2,80.7
+IA,Alcohol,Binge drinking prevalence among youth,11.027273,1.5,21.6
+IA,Alcohol,Chronic liver disease mortality,9.707954,3.5,19.6
+IA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.1375,8.4,21.2
+IA,Asthma,Asthma mortality rate,13.131429,4.6,33.3
+IA,Asthma,Emergency department visit rate for asthma,50.582157,11.7,229.4
+IA,Asthma,Hospitalizations for asthma,6.43875,1.11,29.79
+IA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",46.533333,21.5,66.9
+IA,Cancer,"Cancer of the female breast, mortality",19.11923,2.4,35.9
+IA,Cancer,"Cancer of the female cervix, mortality",2.05,1.4,2.7
+IA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.796875,0.9,5.5
+IA,Cancer,"Cancer of the prostate, mortality",20.444118,1.9,69.0
+IA,Cancer,"Invasive cancer (all sites combined), incidence",415.6242,106.4,670.9
+IA,Cancer,"Invasive cancer (all sites combined), mortality",145.41641,22.0,252.2
+IA,Cancer,"Invasive cancer of the cervix, incidence",7.69,3.5,18.6
+IA,Cancer,"Invasive cancer of the female breast, incidence",102.81518,28.8,185.1
+IA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.677885,1.4,26.2
+IA,Cancer,"Invasive cancer of the prostate, incidence",95.82321,10.4,211.7
+IA,Cardiovascular Disease,Hospitalization for stroke,21.23,20.72,21.74
+IA,Cardiovascular Disease,Mortality from heart failure,45.15,7.0,81.6
+IA,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,6.105,5.34,6.85
+IA,Diabetes,Mortality due to diabetes reported as any listed cause of death,168.1,161.7,174.5
+IA,"Nutrition, Physical Activity, and Weight Status",Median daily frequency of fruit consumption among high school students,0.8,0.3,1.7
+ID,Alcohol,Alcohol use among youth,27.84,19.5,41.1
+ID,Alcohol,Binge drinking prevalence among youth,15.725,9.8,23.7
+ID,Alcohol,Chronic liver disease mortality,12.276667,5.4,34.5
+ID,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.225,10.4,26.9
+ID,Asthma,Asthma mortality rate,13.639286,6.9,25.8
+ID,Cancer,"Cancer of the colon and rectum (colorectal), incidence",26.7125,0.4,44.2
+ID,Cancer,"Cancer of the female breast, mortality",19.774193,2.5,31.1
+ID,Cancer,"Cancer of the female cervix, mortality",1.8708333,1.3,2.8
+ID,Cancer,"Cancer of the lung and bronchus, mortality",33.3,31.6,35.1
+ID,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.53125,1.0,4.4
+ID,Cancer,"Cancer of the prostate, mortality",21.277779,2.0,27.4
+ID,Cancer,"Invasive cancer (all sites combined), incidence",271.0586,1.0,550.8
+ID,Cancer,"Invasive cancer (all sites combined), mortality",123.41953,22.5,230.7
+ID,Cancer,"Invasive cancer of the cervix, incidence",6.6078124,2.8,14.3
+ID,Cancer,"Invasive cancer of the female breast, incidence",79.126045,0.8,160.7
+ID,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.81625,2.1,22.6
+ID,Cancer,"Invasive cancer of the prostate, incidence",63.0375,0.3,160.3
+ID,Cardiovascular Disease,Mortality from heart failure,118.46667,76.7,152.2
+ID,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,151.9,125.3,181.1
+ID,"Nutrition, Physical Activity, and Weight Status",Healthy weight among high school students,68.2,64.8,71.5
+ID,"Nutrition, Physical Activity, and Weight Status",Television viewing among high school students,15.8,12.7,19.4
+ID,Overarching Conditions,Premature mortality among adults aged 45-64 years,600.0,574.8,625.2
+IL,Alcohol,Alcohol use among youth,27.711111,4.0,47.1
+IL,Alcohol,Alcohol use before pregnancy,51.593334,14.2,81.2
+IL,Alcohol,Binge drinking prevalence among youth,10.3375,0.3,25.4
+IL,Alcohol,Chronic liver disease mortality,9.350704,2.1,18.3
+IL,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.2125,9.2,34.7
+IL,Asthma,Asthma mortality rate,17.346363,4.1,58.7
+IL,Cancer,"Cancer of the colon and rectum (colorectal), incidence",48.98,41.7,53.3
+IL,Cancer,"Cancer of the colon and rectum (colorectal), mortality",15.12,12.3,18.9
+IL,Cancer,"Cancer of the female breast, mortality",24.43125,20.4,27.8
+IL,Cancer,"Cancer of the female cervix, mortality",2.53125,2.1,3.0
+IL,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.7625,1.2,4.8
+IL,Cancer,"Cancer of the prostate, mortality",19.60625,17.6,23.0
+IL,Cancer,"Invasive cancer (all sites combined), incidence",505.00833,438.9,558.1
+IL,Cancer,"Invasive cancer (all sites combined), mortality",181.18959,136.9,217.5
+IL,Cancer,"Invasive cancer of the cervix, incidence",7.96875,7.2,8.9
+IL,Cancer,"Invasive cancer of the female breast, incidence",142.44376,127.3,162.6
+IL,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",13.145833,6.3,21.6
+IL,Cancer,"Invasive cancer of the prostate, incidence",125.89375,110.3,144.7
+IL,Cancer,"Melanoma, mortality",2.6333334,1.6,3.7
+IL,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,11.94,11.76,12.12
+IL,"Nutrition, Physical Activity, and Weight Status",Soda consumption among high school students,18.1,15.3,21.2
+IN,Alcohol,Alcohol use among youth,29.95,15.3,40.4
+IN,Alcohol,Alcohol use before pregnancy,50.333332,15.0,80.7
+IN,Alcohol,Binge drinking prevalence among youth,17.4,14.0,21.5
+IN,Alcohol,Chronic liver disease mortality,11.411538,3.7,25.2
+IN,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.464285,6.8,62.3
+IN,Asthma,Asthma mortality rate,12.229348,3.8,58.3
+IN,Asthma,Hospitalizations for asthma,0.156,0.08,0.43
+IN,Cancer,"Cancer of the colon and rectum (colorectal), incidence",28.791666,0.2,53.6
+IN,Cancer,"Cancer of the female breast, mortality",19.769793,3.4,34.3
+IN,Cancer,"Cancer of the female cervix, mortality",2.7,1.2,5.0
+IN,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.615,1.1,4.9
+IN,Cancer,"Cancer of the prostate, mortality",19.39125,1.9,50.5
+IN,Cancer,"Invasive cancer (all sites combined), incidence",282.05548,0.2,564.5
+IN,Cancer,"Invasive cancer (all sites combined), mortality",141.6086,13.6,235.0
+IN,Cancer,"Invasive cancer of the cervix, incidence",5.5489364,0.1,15.3
+IN,Cancer,"Invasive cancer of the female breast, incidence",67.95536,0.0,153.0
+IN,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.434821,0.1,23.4
+IN,Cancer,"Invasive cancer of the prostate, incidence",63.432293,0.3,120.6
+IN,Cancer,"Invasive melanoma, incidence",19.8,19.3,20.3
+IN,Cardiovascular Disease,Mortality from heart failure,113.1,109.4,116.8
+IN,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,14.43,14.05,14.8
+IN,Diabetes,Mortality due to diabetes reported as any listed cause of death,27.2,22.6,31.8
+IN,Disability,Disability among adults aged >= 65 years,37.9,37.1,38.7
+IN,Overarching Conditions,Poverty,14.3,13.9,14.7
+KS,Alcohol,Alcohol use among youth,30.0125,12.8,43.5
+KS,Alcohol,Alcohol use before pregnancy,55.64737,21.1,78.4
+KS,Alcohol,Binge drinking prevalence among youth,17.033333,3.7,28.0
+KS,Alcohol,Chronic liver disease mortality,10.52,3.5,32.4
+KS,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,15.21875,6.4,37.4
+KS,Asthma,Asthma mortality rate,11.2875,4.2,29.3
+KS,Cancer,"Cancer of the colon and rectum (colorectal), incidence",41.88,30.6,47.2
+KS,Cancer,"Cancer of the colon and rectum (colorectal), mortality",15.95,14.1,17.9
+KS,Cancer,"Cancer of the female breast, mortality",18.30625,3.8,27.3
+KS,Cancer,"Cancer of the female cervix, mortality",2.2,1.6,3.0
+KS,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3979166,0.9,4.7
+KS,Cancer,"Cancer of the prostate, mortality",14.620833,1.2,20.4
+KS,Cancer,"Invasive cancer (all sites combined), incidence",438.60312,152.8,556.6
+KS,Cancer,"Invasive cancer (all sites combined), mortality",153.97656,37.5,209.7
+KS,Cancer,"Invasive cancer of the cervix, incidence",8.295834,5.0,17.3
+KS,Cancer,"Invasive cancer of the female breast, incidence",114.90417,39.6,160.5
+KS,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.7890625,2.1,21.7
+KS,Cancer,"Invasive cancer of the prostate, incidence",107.90625,30.5,154.5
+KS,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),39.5,36.2,42.7
+KS,Cardiovascular Disease,Mortality from heart failure,100.25,80.6,121.6
+KS,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,145.4,135.3,155.5
+KS,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,1.1,0.7,1.7
+KS,Tobacco,Current cigarette smoking among youth,9.0,7.0,11.6
+KY,Alcohol,Alcohol use among youth,26.272728,5.6,44.2
+KY,Alcohol,Alcohol use before pregnancy,49.973682,19.3,74.9
+KY,Alcohol,Binge drinking prevalence among youth,11.592857,2.1,22.2
+KY,Alcohol,Chronic liver disease mortality,12.507407,3.4,29.6
+KY,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.83,8.6,35.8
+KY,Asthma,Asthma mortality rate,8.703333,3.2,22.6
+KY,Asthma,Emergency department visit rate for asthma,58.48596,10.05,210.33
+KY,Asthma,Hospitalizations for asthma,9.607907,1.93,33.62
+KY,Cancer,"Cancer of the colon and rectum (colorectal), incidence",49.30909,15.1,63.5
+KY,Cancer,"Cancer of the female breast, mortality",22.75921,3.1,37.0
+KY,Cancer,"Cancer of the female cervix, mortality",2.88125,0.9,5.0
+KY,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.2625,1.3,6.1
+KY,Cancer,"Cancer of the prostate, mortality",20.925,15.1,47.5
+KY,Cancer,"Invasive cancer (all sites combined), incidence",417.44687,79.5,675.2
+KY,Cancer,"Invasive cancer (all sites combined), mortality",153.72188,20.8,256.9
+KY,Cancer,"Invasive cancer of the cervix, incidence",8.677631,2.7,17.5
+KY,Cancer,"Invasive cancer of the female breast, incidence",108.79608,25.9,171.6
+KY,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",12.069091,1.2,25.9
+KY,Cancer,"Invasive cancer of the prostate, incidence",98.498955,11.0,196.8
+KY,Cardiovascular Disease,Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,26.205,21.23,31.36
+KY,Cardiovascular Disease,Mortality from heart failure,131.7,103.5,162.3
+KY,Chronic Kidney Disease,Mortality with end-stage renal disease,115.5,110.3,120.6
+KY,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,86.0,84.59,87.41
+KY,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,12.86,11.24,14.48
+KY,Overarching Conditions,Poverty,17.5,16.9,18.1
+KY,Reproductive Health,Folic acid supplementation,25.9,13.7,43.6
+LA,Alcohol,Alcohol use among youth,32.65,9.2,53.4
+LA,Alcohol,Alcohol use before pregnancy,49.979168,16.8,74.2
+LA,Alcohol,Binge drinking prevalence among youth,12.125,1.2,30.2
+LA,Alcohol,Chronic liver disease mortality,9.9625,4.2,17.6
+LA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.61,8.5,26.6
+LA,Asthma,Asthma mortality rate,11.13875,3.9,28.1
+LA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",48.166668,14.6,57.7
+LA,Cancer,"Cancer of the female breast, mortality",21.54239,4.3,37.0
+LA,Cancer,"Cancer of the female cervix, mortality",3.325,2.0,5.4
+LA,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.53875,1.3,6.2
+LA,Cancer,"Cancer of the prostate, mortality",19.355,1.9,48.5
+LA,Cancer,"Invasive cancer (all sites combined), incidence",409.23828,100.5,654.6
+LA,Cancer,"Invasive cancer (all sites combined), mortality",152.01172,39.9,250.5
+LA,Cancer,"Invasive cancer of the cervix, incidence",9.351064,3.9,16.4
+LA,Cancer,"Invasive cancer of the female breast, incidence",103.345535,15.4,172.9
+LA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.898214,3.1,23.9
+LA,Cancer,"Invasive cancer of the prostate, incidence",113.50455,11.5,234.2
+LA,Cardiovascular Disease,Mortality from heart failure,112.3,99.8,125.5
+LA,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,1.9,1.4,2.6
+MA,Alcohol,Alcohol use among youth,29.614286,8.6,43.4
+MA,Alcohol,Alcohol use before pregnancy,55.49074,28.1,91.7
+MA,Alcohol,Binge drinking prevalence among youth,13.8125,2.2,23.1
+MA,Alcohol,Chronic liver disease mortality,8.923437,2.6,18.5
+MA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.6,7.2,33.5
+MA,Asthma,Asthma mortality rate,9.692857,4.0,21.4
+MA,Asthma,Emergency department visit rate for asthma,73.4945,14.75,136.43
+MA,Asthma,Hospitalizations for asthma,13.607381,2.34,39.28
+MA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",31.05,1.1,46.6
+MA,Cancer,"Cancer of the colon and rectum (colorectal), mortality",15.0,14.4,15.6
+MA,Cancer,"Cancer of the female breast, mortality",16.59375,4.5,26.7
+MA,Cancer,"Cancer of the female cervix, mortality",1.3470588,0.9,2.6
+MA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.4921875,1.0,4.5
+MA,Cancer,"Cancer of the prostate, mortality",14.454166,2.1,21.2
+MA,Cancer,"Invasive cancer (all sites combined), incidence",313.25626,0.4,577.7
+MA,Cancer,"Invasive cancer (all sites combined), mortality",132.225,26.5,207.8
+MA,Cancer,"Invasive cancer of the cervix, incidence",3.79375,0.2,6.2
+MA,Cancer,"Invasive cancer of the female breast, incidence",77.401566,0.1,172.7
+MA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.239062,0.3,22.4
+MA,Cancer,"Invasive cancer of the prostate, incidence",72.49643,0.0,155.2
+MA,Cancer,"Invasive melanoma, incidence",17.466667,0.0,29.4
+MA,Cardiovascular Disease,Mortality from heart failure,97.15,74.9,120.1
+MA,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,78.2,73.6,82.9
+MA,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,1.2333333,0.7,2.0
+MA,Tobacco,Cigarette smoking before pregnancy,2.7,1.2,6.0
+MD,Alcohol,Alcohol use among youth,25.221874,10.9,42.2
+MD,Alcohol,Alcohol use before pregnancy,43.876595,8.0,82.4
+MD,Alcohol,Binge drinking prevalence among youth,11.983334,4.1,20.6
+MD,Alcohol,Chronic liver disease mortality,7.6688523,2.1,17.1
+MD,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.227273,7.8,35.6
+MD,Asthma,Asthma mortality rate,13.753774,3.9,39.5
+MD,Asthma,Emergency department visit rate for asthma,64.90977,7.45,148.41
+MD,Asthma,Hospitalizations for asthma,9.054205,1.05,30.68
+MD,Cancer,"Cancer of the colon and rectum (colorectal), incidence",24.515385,0.1,43.7
+MD,Cancer,"Cancer of the female breast, mortality",20.491667,4.3,32.5
+MD,Cancer,"Cancer of the female cervix, mortality",2.1703124,0.7,4.1
+MD,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.437755,0.3,4.8
+MD,Cancer,"Cancer of the prostate, mortality",16.769793,1.4,46.3
+MD,Cancer,"Invasive cancer (all sites combined), incidence",274.475,0.7,556.8
+MD,Cancer,"Invasive cancer (all sites combined), mortality",133.19844,18.3,227.4
+MD,Cancer,"Invasive cancer of the cervix, incidence",4.6625,0.2,11.5
+MD,Cancer,"Invasive cancer of the female breast, incidence",72.54553,0.2,164.8
+MD,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.480357,0.3,20.9
+MD,Cancer,"Invasive cancer of the prostate, incidence",69.817856,0.1,161.6
+MD,Cardiovascular Disease,Mortality from coronary heart disease,88.8,84.5,93.1
+MD,Cardiovascular Disease,Mortality from diseases of the heart,246.8,241.3,252.2
+MD,Cardiovascular Disease,Mortality from heart failure,63.5,47.8,84.6
+MD,Chronic Kidney Disease,Mortality with end-stage renal disease,94.3,89.8,98.9
+MD,Reproductive Health,Postpartum checkup,89.05,86.7,91.0
+ME,Alcohol,Alcohol use among youth,22.41875,5.6,38.0
+ME,Alcohol,Alcohol use before pregnancy,66.76,17.6,76.9
+ME,Alcohol,Binge drinking prevalence among youth,13.05,10.8,15.8
+ME,Alcohol,Chronic liver disease mortality,11.922728,3.3,29.2
+ME,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,15.233334,10.5,39.2
+ME,Asthma,Hospitalizations for asthma,2.8294444,1.55,4.79
+ME,Cancer,"Cancer of the colon and rectum (colorectal), incidence",26.557142,0.1,56.5
+ME,Cancer,"Cancer of the colon and rectum (colorectal), mortality",18.4,17.4,19.5
+ME,Cancer,"Cancer of the female breast, mortality",22.964582,16.7,30.9
+ME,Cancer,"Cancer of the female cervix, mortality",1.8666667,1.3,2.6
+ME,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.4234376,1.0,7.1
+ME,Cancer,"Cancer of the prostate, mortality",21.879168,17.9,28.0
+ME,Cancer,"Invasive cancer (all sites combined), incidence",312.6922,1.6,721.0
+ME,Cancer,"Invasive cancer (all sites combined), mortality",154.88594,24.4,284.3
+ME,Cancer,"Invasive cancer of the cervix, incidence",6.039583,4.4,7.6
+ME,Cancer,"Invasive cancer of the female breast, incidence",79.71372,0.3,186.6
+ME,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",15.59375,5.8,31.6
+ME,Cancer,"Invasive cancer of the prostate, incidence",70.12045,0.2,163.2
+ME,Cardiovascular Disease,Mortality from diseases of the heart,183.3,173.9,192.7
+ME,Cardiovascular Disease,Mortality from heart failure,85.7,80.4,91.1
+ME,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,3.67,3.25,4.08
+ME,Oral Health,Preventive dental care before pregnancy,55.4,51.7,59.1
+ME,Reproductive Health,Postpartum checkup,92.0,89.4,94.0
+ME,Tobacco,Cigarette smoking before pregnancy,26.7,20.9,32.5
+MI,Alcohol,Alcohol use among youth,24.848148,2.8,43.3
+MI,Alcohol,Alcohol use before pregnancy,54.657776,5.5,83.2
+MI,Alcohol,Binge drinking prevalence among youth,11.386666,1.1,26.2
+MI,Alcohol,Chronic liver disease mortality,12.280597,4.9,55.2
+MI,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.64,7.3,22.2
+MI,Asthma,Asthma mortality rate,13.225454,3.9,52.9
+MI,Asthma,Hospitalizations for asthma,9.546182,1.01,39.46
+MI,Cancer,"Cancer of the colon and rectum (colorectal), incidence",24.583334,0.2,48.3
+MI,Cancer,"Cancer of the colon and rectum (colorectal), mortality",11.15,4.1,17.7
+MI,Cancer,"Cancer of the female breast, mortality",19.4875,4.1,35.0
+MI,Cancer,"Cancer of the female cervix, mortality",2.58,1.2,4.6
+MI,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.6245098,0.6,5.3
+MI,Cancer,"Cancer of the prostate, mortality",17.005209,1.8,41.7
+MI,Cancer,"Invasive cancer (all sites combined), incidence",288.4672,2.2,590.1
+MI,Cancer,"Invasive cancer (all sites combined), mortality",159.90234,46.4,232.9
+MI,Cancer,"Invasive cancer of the cervix, incidence",4.5284314,0.0,13.6
+MI,Cancer,"Invasive cancer of the female breast, incidence",68.52857,0.5,158.6
+MI,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.2953124,0.0,22.6
+MI,Cancer,"Invasive cancer of the prostate, incidence",66.20982,0.3,169.2
+MI,Cardiovascular Disease,Mortality from heart failure,48.1,26.2,94.5
+MI,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,50.59,49.57,51.62
+MI,Tobacco,Cigarette smoking before pregnancy,27.0,24.3,29.9
+MN,Alcohol,Alcohol use before pregnancy,52.565716,14.6,84.6
+MN,Alcohol,Chronic liver disease mortality,16.745161,3.5,118.3
+MN,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,18.2,7.0,43.6
+MN,Asthma,Asthma mortality rate,12.038095,4.6,26.8
+MN,Asthma,Emergency department visit rate for asthma,42.316666,12.31,145.15
+MN,Asthma,Hospitalizations for asthma,4.684,1.24,13.97
+MN,Cancer,"Cancer of the colon and rectum (colorectal), incidence",23.3,0.5,45.0
+MN,Cancer,"Cancer of the female breast, mortality",15.644444,2.1,29.7
+MN,Cancer,"Cancer of the female cervix, mortality",2.5875,1.0,11.2
+MN,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.4989796,0.6,11.9
+MN,Cancer,"Cancer of the prostate, mortality",17.602127,1.3,48.3
+MN,Cancer,"Invasive cancer (all sites combined), incidence",284.37344,4.3,581.3
+MN,Cancer,"Invasive cancer (all sites combined), mortality",141.86015,25.2,255.4
+MN,Cancer,"Invasive cancer of the cervix, incidence",3.4035714,0.1,13.8
+MN,Cancer,"Invasive cancer of the female breast, incidence",70.58125,0.7,164.5
+MN,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.2117186,0.1,21.5
+MN,Cancer,"Invasive cancer of the prostate, incidence",62.839287,0.5,155.2
+MN,Cancer,"Melanoma, mortality",3.3,3.1,3.6
+MN,Cardiovascular Disease,Mortality from heart failure,95.8,49.3,114.2
+MN,Chronic Kidney Disease,Mortality with end-stage renal disease,91.1,87.7,94.5
+MN,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,97.1,91.4,102.9
+MN,Tobacco,Cigarette smoking before pregnancy,63.3,54.0,71.6
+MO,Alcohol,Alcohol use among youth,32.34348,13.5,62.4
+MO,Alcohol,Alcohol use before pregnancy,54.77174,4.1,85.8
+MO,Alcohol,Binge drinking prevalence among youth,15.969231,3.7,28.3
+MO,Alcohol,Chronic liver disease mortality,9.624561,4.0,20.8
+MO,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.481818,6.0,39.7
+MO,Asthma,Asthma mortality rate,13.412245,3.5,72.8
+MO,Cancer,"Cancer of the colon and rectum (colorectal), incidence",29.166666,0.1,48.0
+MO,Cancer,"Cancer of the female breast, mortality",20.909374,3.2,37.2
+MO,Cancer,"Cancer of the female cervix, mortality",4.6,3.6,5.7
+MO,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.96,1.2,5.7
+MO,Cancer,"Cancer of the prostate, mortality",19.122972,1.6,46.1
+MO,Cancer,"Invasive cancer (all sites combined), incidence",281.65234,0.9,575.9
+MO,Cancer,"Invasive cancer (all sites combined), mortality",148.33125,26.9,233.6
+MO,Cancer,"Invasive cancer of the cervix, incidence",5.4354167,0.1,14.7
+MO,Cancer,"Invasive cancer of the female breast, incidence",70.338394,0.2,166.1
+MO,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.271552,0.0,24.6
+MO,Cancer,"Invasive cancer of the prostate, incidence",54.21518,0.1,135.2
+MO,Cardiovascular Disease,Mortality from coronary heart disease,42.9,32.3,55.8
+MO,Cardiovascular Disease,Mortality from heart failure,94.8,91.3,98.3
+MO,Diabetes,Mortality due to diabetes reported as any listed cause of death,78.0,74.8,81.3
+MO,Reproductive Health,Postpartum checkup,88.4,86.0,90.4
+MS,Alcohol,Alcohol use among youth,28.858824,12.4,45.1
+MS,Alcohol,Alcohol use before pregnancy,48.390907,23.1,66.4
+MS,Alcohol,Binge drinking prevalence among youth,11.3875,2.8,21.3
+MS,Alcohol,Chronic liver disease mortality,11.848182,4.3,26.9
+MS,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,9.922222,6.0,17.0
+MS,Asthma,Asthma mortality rate,19.99375,5.8,52.8
+MS,Asthma,Hospitalizations for asthma,9.697619,1.09,29.02
+MS,Cancer,"Cancer of the colon and rectum (colorectal), incidence",30.575,0.1,62.5
+MS,Cancer,"Cancer of the female breast, mortality",26.7625,18.4,35.8
+MS,Cancer,"Cancer of the female cervix, mortality",3.0,2.3,3.9
+MS,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.92125,1.1,7.3
+MS,Cancer,"Cancer of the prostate, mortality",27.03125,16.4,64.0
+MS,Cancer,"Invasive cancer (all sites combined), incidence",276.83124,1.0,628.8
+MS,Cancer,"Invasive cancer (all sites combined), mortality",160.72421,17.3,264.6
+MS,Cancer,"Invasive cancer of the cervix, incidence",7.1703124,3.2,10.6
+MS,Cancer,"Invasive cancer of the female breast, incidence",64.40755,0.1,151.0
+MS,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.011905,0.1,24.7
+MS,Cancer,"Invasive cancer of the prostate, incidence",69.266075,0.1,167.3
+MS,Cardiovascular Disease,Mortality from heart failure,239.1,231.7,246.4
+MT,Alcohol,Alcohol use among youth,34.566666,20.4,52.7
+MT,Alcohol,Alcohol use before pregnancy,65.23,32.7,88.7
+MT,Alcohol,Binge drinking prevalence among youth,18.042856,7.5,27.6
+MT,Alcohol,Chronic liver disease mortality,25.76909,5.3,158.5
+MT,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.96,11.0,35.2
+MT,Arthritis,Arthritis among adults aged >= 18 years who are obese,32.6,28.9,36.5
+MT,Cancer,"Cancer of the colon and rectum (colorectal), incidence",40.05,31.0,50.3
+MT,Cancer,"Cancer of the colon and rectum (colorectal), mortality",15.1,13.7,16.7
+MT,Cancer,"Cancer of the female breast, mortality",21.879688,6.6,36.0
+MT,Cancer,"Cancer of the female cervix, mortality",1.7285714,1.1,2.6
+MT,Cancer,"Cancer of the lung and bronchus, incidence",55.8,53.2,58.5
+MT,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.66875,0.8,5.5
+MT,Cancer,"Cancer of the prostate, mortality",22.22258,5.1,51.2
+MT,Cancer,"Invasive cancer (all sites combined), incidence",304.0547,0.8,664.2
+MT,Cancer,"Invasive cancer (all sites combined), mortality",146.52203,24.4,253.1
+MT,Cancer,"Invasive cancer of the cervix, incidence",6.0277777,0.4,8.6
+MT,Cancer,"Invasive cancer of the female breast, incidence",89.52396,0.4,181.5
+MT,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.7125,0.4,25.0
+MT,Cancer,"Invasive cancer of the prostate, incidence",86.392555,0.3,192.6
+MT,Cardiovascular Disease,Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,9.85,9.01,10.69
+MT,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),35.4,22.9,52.2
+MT,Cardiovascular Disease,Mortality from heart failure,109.566666,88.6,150.2
+MT,"Nutrition, Physical Activity, and Weight Status",Meeting aerobic physical activity guidelines among high school students,31.1,28.3,34.0
+MT,Overarching Conditions,Current health care coverage among women aged 18-44 years,88.1,84.4,91.0
+MT,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,67.4,65.3,69.5
+MT,Overarching Conditions,Recent physically unhealthy days among adults aged >= 18 years,4.2,3.9,4.6
+NC,Alcohol,Alcohol use among youth,25.75926,2.0,41.3
+NC,Alcohol,Alcohol use before pregnancy,47.021427,16.3,73.0
+NC,Alcohol,Binge drinking prevalence among youth,11.50625,1.9,19.4
+NC,Alcohol,Chronic liver disease mortality,11.024242,1.6,33.8
+NC,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,19.60909,9.4,38.8
+NC,Asthma,Asthma mortality rate,11.643637,3.4,32.9
+NC,Asthma,Emergency department visit rate for asthma,52.861862,6.25,151.7
+NC,Asthma,Hospitalizations for asthma,7.84875,0.6,27.47
+NC,Cancer,"Cancer of the colon and rectum (colorectal), incidence",30.711111,0.3,46.7
+NC,Cancer,"Cancer of the female breast, mortality",18.857143,2.7,31.6
+NC,Cancer,"Cancer of the female cervix, mortality",2.4333334,1.7,3.8
+NC,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.830851,0.8,5.4
+NC,Cancer,"Cancer of the prostate, mortality",19.064,1.0,55.1
+NC,Cancer,"Invasive cancer (all sites combined), incidence",288.76797,3.2,598.6
+NC,Cancer,"Invasive cancer (all sites combined), mortality",146.44531,17.7,227.7
+NC,Cancer,"Invasive cancer of the cervix, incidence",4.4854546,0.0,15.0
+NC,Cancer,"Invasive cancer of the female breast, incidence",73.21072,0.7,172.0
+NC,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.590625,0.1,23.4
+NC,Cancer,"Invasive cancer of the prostate, incidence",67.515175,0.6,156.5
+NC,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,24.0,17.7,31.6
+NC,Cardiovascular Disease,Mortality from diseases of the heart,161.2,157.8,164.7
+NC,Cardiovascular Disease,Mortality from heart failure,100.4,98.4,102.4
+NC,Chronic Kidney Disease,Mortality with end-stage renal disease,76.45,53.6,100.3
+NC,"Nutrition, Physical Activity, and Weight Status",Overweight or obesity among high school students,31.8,28.6,35.2
+ND,Alcohol,Alcohol use among youth,31.004763,15.5,46.3
+ND,Alcohol,Alcohol use before pregnancy,59.782352,12.7,86.3
+ND,Alcohol,Binge drinking prevalence among youth,16.615385,7.2,29.0
+ND,Alcohol,Chronic liver disease mortality,21.349,4.1,173.1
+ND,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,10.6,6.7,22.2
+ND,Cancer,"Cancer of the colon and rectum (colorectal), incidence",50.6,40.6,59.7
+ND,Cancer,"Cancer of the female breast, mortality",21.09,8.0,37.5
+ND,Cancer,"Cancer of the female cervix, mortality",1.34,0.7,2.4
+ND,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.25,0.6,4.6
+ND,Cancer,"Cancer of the prostate, mortality",19.777082,15.9,27.5
+ND,Cancer,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",70.8,67.8,73.6
+ND,Cancer,"Invasive cancer (all sites combined), incidence",268.8719,0.9,582.2
+ND,Cancer,"Invasive cancer (all sites combined), mortality",137.25255,14.8,280.2
+ND,Cancer,"Invasive cancer of the cervix, incidence",5.1979165,2.9,8.0
+ND,Cancer,"Invasive cancer of the female breast, incidence",89.78158,0.5,158.8
+ND,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.375,0.2,22.2
+ND,Cancer,"Invasive cancer of the prostate, incidence",85.7446,0.5,166.9
+ND,Cardiovascular Disease,Mortality from diseases of the heart,206.6,195.5,217.7
+ND,Cardiovascular Disease,Mortality from heart failure,124.3,116.3,132.2
+ND,Chronic Kidney Disease,Mortality with end-stage renal disease,125.8,114.7,136.9
+ND,Diabetes,Mortality due to diabetes reported as any listed cause of death,63.15,57.0,69.2
+ND,Diabetes,Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes,72.9,59.6,83.1
+ND,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,6.7,4.4,9.0
+ND,"Nutrition, Physical Activity, and Weight Status",Healthy weight among adults aged >= 18 years,28.5,26.3,30.7
+ND,Overarching Conditions,Premature mortality among adults aged 45-64 years,534.45,495.2,573.6
+ND,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,79.7,70.0,86.8
+ND,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,3.7,2.3,5.0
+ND,Tobacco,Current smokeless tobacco use among adults aged >= 18 years,11.2,9.4,13.1
+NE,Alcohol,Alcohol use among youth,23.035,13.5,39.7
+NE,Alcohol,Alcohol use before pregnancy,50.27719,14.3,84.0
+NE,Alcohol,Binge drinking frequency among adults aged >= 18 years who binge drink,4.133333,2.7,5.2
+NE,Alcohol,Binge drinking intensity among adults aged >= 18 years who binge drink,7.62,5.5,9.1
+NE,Alcohol,Binge drinking prevalence among adults aged >= 18 years,21.75,11.3,29.0
+NE,Alcohol,Binge drinking prevalence among women aged 18-44 years,24.75,19.4,30.7
+NE,Alcohol,Binge drinking prevalence among youth,10.458333,4.3,21.3
+NE,Alcohol,Chronic liver disease mortality,9.891111,3.4,23.4
+NE,Alcohol,Heavy drinking among adults aged >= 18 years,6.95,6.0,8.0
+NE,Alcohol,Heavy drinking among women aged 18-44 years,6.8,5.0,9.2
+NE,Arthritis,Activity limitation due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis,44.3,40.1,48.5
+NE,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,12.225,8.3,16.3
+NE,Arthritis,Arthritis among adults aged >= 18 years,19.3,11.1,29.6
+NE,Arthritis,Arthritis among adults aged >= 18 years who are obese,28.285715,8.4,46.5
+NE,Arthritis,Arthritis among adults aged >= 18 years who have diabetes,46.6,41.2,52.0
+NE,Arthritis,Arthritis among adults aged >= 18 years who have heart disease,55.225,35.4,71.0
+NE,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,41.6,22.5,75.2
+NE,Arthritis,Physical inactivity among adults aged >= 18 years with arthritis,32.066666,16.1,53.6
+NE,Arthritis,Severe joint pain due to arthritis among adults aged >= 18 years who have doctor-diagnosed arthritis,21.5,18.4,25.1
+NE,Arthritis,Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis,39.033333,27.7,61.2
+NE,Asthma,Asthma mortality rate,15.42,6.4,34.4
+NE,Asthma,Current asthma prevalence among adults aged >= 18 years,12.0,7.8,18.1
+NE,Asthma,Emergency department visit rate for asthma,29.960953,22.68,43.37
+NE,Asthma,Hospitalizations for asthma,4.8611903,1.5,9.7
+NE,Asthma,Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma,68.15,58.2,77.8
+NE,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma,39.433334,28.0,54.4
+NE,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma,86.6,81.0,90.7
+NE,Cancer,"Cancer of the colon and rectum (colorectal), incidence",25.016666,0.3,50.5
+NE,Cancer,"Cancer of the female breast, mortality",20.7,1.8,40.9
+NE,Cancer,"Cancer of the female cervix, mortality",2.2428572,1.7,3.0
+NE,Cancer,"Cancer of the lung and bronchus, mortality",24.25,3.7,44.7
+NE,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.6140625,1.0,4.6
+NE,Cancer,"Cancer of the prostate, mortality",20.880882,1.7,66.2
+NE,Cancer,"Invasive cancer (all sites combined), incidence",281.86874,2.2,572.5
+NE,Cancer,"Invasive cancer (all sites combined), mortality",140.55469,26.7,248.1
+NE,Cancer,"Invasive cancer of the cervix, incidence",6.2789474,0.2,19.3
+NE,Cancer,"Invasive cancer of the female breast, incidence",69.44643,0.5,159.7
+NE,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.535849,0.1,22.7
+NE,Cancer,"Invasive cancer of the prostate, incidence",64.97232,0.2,155.9
+NE,Cancer,Mammography use among women aged 50-74 years,66.2,52.4,77.7
+NE,Cancer,Papanicolaou smear use among adult women aged 21-65 years,69.8,53.7,82.1
+NE,Cardiovascular Disease,Awareness of high blood pressure among adults aged >= 18 years,34.8,28.9,41.2
+NE,Cardiovascular Disease,Awareness of high blood pressure among women aged 18-44 years,10.9,7.8,16.9
+NE,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,30.3,20.6,37.7
+NE,Cardiovascular Disease,Hospitalization for heart failure among Medicare-eligible persons aged >= 65 years,10.43,9.88,10.97
+NE,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),41.4,37.4,45.5
+NE,Cardiovascular Disease,Taking medicine for high blood pressure control among adults aged >= 18 years with high blood pressure,74.0,71.3,76.6
+NE,Chronic Kidney Disease,Prevalence of chronic kidney disease among adults aged >= 18 years,1.7,0.9,3.0
+NE,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,241.6,226.1,257.1
+NE,Chronic Obstructive Pulmonary Disease,Prevalence of chronic obstructive pulmonary disease among adults >= 18,5.3,4.0,6.6
+NE,Chronic Obstructive Pulmonary Disease,Prevalence of chronic obstructive pulmonary disease among adults >= 45 years,8.0,7.1,8.9
+NE,Diabetes,Dilated eye examination among adults aged >= 18 years with diagnosed diabetes,61.95,46.6,71.0
+NE,Diabetes,Foot examination among adults aged >= 18 years with diagnosed diabetes,68.8,55.0,75.8
+NE,Diabetes,Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes,74.65,67.3,83.1
+NE,Diabetes,Influenza vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes,51.95,33.0,68.4
+NE,Diabetes,Influenza vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,74.13333,66.6,84.2
+NE,Diabetes,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with diagnosed diabetes,42.8,31.0,57.3
+NE,Diabetes,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with diagnosed diabetes,86.9,81.8,90.7
+NE,Diabetes,Prevalence of depressive disorders among adults aged >= 18 years with diagnosed diabetes,26.6,14.2,49.8
+NE,Diabetes,Prevalence of diagnosed diabetes among adults aged >= 18 years,10.666667,7.4,20.8
+NE,Diabetes,Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes,99.6,97.4,100.0
+NE,Diabetes,Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes,51.633335,32.5,68.2
+NE,Diabetes,Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes,65.55,61.4,68.9
+NE,Immunization,Influenza vaccination among noninstitutionalized adults aged >= 18 years,47.6,34.3,55.8
+NE,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,4.3,2.9,6.0
+NE,"Nutrition, Physical Activity, and Weight Status",Healthy weight among adults aged >= 18 years,30.85,26.3,36.1
+NE,"Nutrition, Physical Activity, and Weight Status",No leisure-time physical activity among adults aged >= 18 years,26.8,25.3,28.3
+NE,"Nutrition, Physical Activity, and Weight Status",Obesity among adults aged >= 18 years,31.05,25.9,42.5
+NE,"Nutrition, Physical Activity, and Weight Status",Overweight or obesity among adults aged >= 18 years,70.8,61.5,75.7
+NE,"Nutrition, Physical Activity, and Weight Status",Overweight or obesity among women aged 18-44 years,55.8,52.1,59.4
+NE,Older Adults,Proportion of older adults aged >= 65 years who are up to date on a core set of clinical preventive services,53.4,50.9,55.9
+NE,Oral Health,All teeth lost among adults aged >= 65 years,10.3,8.6,11.9
+NE,Oral Health,No tooth loss among adults aged 18-64 years,59.1,54.6,63.4
+NE,Oral Health,Six or more teeth lost among adults aged >= 65 years,28.25,23.8,34.0
+NE,Overarching Conditions,Current health care coverage among women aged 18-44 years,70.0,49.2,86.1
+NE,Overarching Conditions,Current lack of health insurance among adults aged 18-64 years,13.5,12.2,14.8
+NE,Overarching Conditions,Fair or poor self-rated health status among adults aged >= 18 years,20.666666,14.3,31.1
+NE,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,56.45,34.9,67.1
+NE,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,1.6,1.5,1.8
+NE,Overarching Conditions,Recent physically unhealthy days among adults aged >= 18 years,4.9,2.6,8.8
+NE,Overarching Conditions,Self-rated health status among women aged 18-44 years,84.4,68.4,92.5
+NE,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,70.5,46.6,93.1
+NE,Tobacco,Cigarette smoking before pregnancy,8.4,6.3,11.1
+NE,Tobacco,Current cigarette smoking among women aged 18-44 years,17.6,15.1,20.4
+NE,Tobacco,Current smoking among adults aged >= 18 years,14.7,13.4,15.9
+NE,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke,33.6,16.9,59.2
+NE,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke,69.6,63.3,75.3
+NE,Tobacco,Quit attempts in the past year among current smokers,53.825,31.5,65.8
+NH,Alcohol,Alcohol use among youth,27.882143,9.0,43.9
+NH,Alcohol,Alcohol use before pregnancy,67.57273,10.3,83.4
+NH,Alcohol,Binge drinking prevalence among women aged 18-44 years,16.7,13.3,20.7
+NH,Alcohol,Binge drinking prevalence among youth,14.32,4.6,24.4
+NH,Alcohol,Chronic liver disease mortality,11.057955,2.6,23.3
+NH,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.385714,11.1,27.4
+NH,Arthritis,Arthritis among adults aged >= 18 years who have heart disease,42.7,24.8,62.7
+NH,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,26.3,19.6,34.2
+NH,Arthritis,Work limitation due to arthritis among adults aged 18-64 years who have doctor-diagnosed arthritis,36.4,29.0,44.5
+NH,Cancer,"Cancer of the colon and rectum (colorectal), incidence",28.957144,9.2,48.5
+NH,Cancer,"Cancer of the female breast, mortality",22.985416,16.9,30.3
+NH,Cancer,"Cancer of the female cervix, mortality",1.725,1.0,2.7
+NH,Cancer,"Cancer of the lung and bronchus, incidence",0.6,0.5,0.9
+NH,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.759375,0.8,5.8
+NH,Cancer,"Cancer of the prostate, mortality",19.864584,17.1,25.0
+NH,Cancer,"Invasive cancer (all sites combined), incidence",314.42267,0.3,674.8
+NH,Cancer,"Invasive cancer (all sites combined), mortality",134.7866,20.9,226.0
+NH,Cancer,"Invasive cancer of the cervix, incidence",5.047917,3.7,6.7
+NH,Cancer,"Invasive cancer of the female breast, incidence",95.3,0.3,195.4
+NH,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",13.753125,5.6,25.8
+NH,Cancer,"Invasive cancer of the prostate, incidence",83.6375,0.4,203.5
+NH,Cardiovascular Disease,Awareness of high blood pressure among adults aged >= 18 years,27.6,21.1,35.3
+NH,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,34.2,23.0,47.5
+NH,Cardiovascular Disease,Mortality from heart failure,125.65,107.6,144.2
+NH,Cardiovascular Disease,Mortality from total cardiovascular diseases,252.0,239.8,264.1
+NH,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis among Medicare-eligible persons aged >= 65 years,8.77,8.11,9.43
+NH,Older Adults,Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years,6.815,5.32,8.56
+NJ,Alcohol,Alcohol use among youth,32.20714,6.5,53.1
+NJ,Alcohol,Alcohol use before pregnancy,47.251064,17.9,77.6
+NJ,Alcohol,Binge drinking prevalence among youth,14.0875,1.2,28.6
+NJ,Alcohol,Chronic liver disease mortality,7.93169,1.5,16.4
+NJ,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.383333,4.5,22.9
+NJ,Asthma,Asthma mortality rate,15.050862,3.8,65.3
+NJ,Asthma,Emergency department visit rate for asthma,75.50275,9.37,221.8
+NJ,Asthma,Hospitalizations for asthma,13.113962,1.6,42.38
+NJ,Cancer,"Cancer of the colon and rectum (colorectal), incidence",35.6,21.8,48.1
+NJ,Cancer,"Cancer of the female breast, mortality",22.590626,8.2,39.4
+NJ,Cancer,"Cancer of the female cervix, mortality",2.6875,1.6,4.6
+NJ,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.0714285,0.5,3.9
+NJ,Cancer,"Cancer of the prostate, mortality",17.785418,2.0,53.1
+NJ,Cancer,"Invasive cancer (all sites combined), incidence",476.36874,228.0,770.0
+NJ,Cancer,"Invasive cancer (all sites combined), mortality",150.92322,53.8,252.9
+NJ,Cancer,"Invasive cancer of the cervix, incidence",8.31875,3.3,13.1
+NJ,Cancer,"Invasive cancer of the female breast, incidence",134.55,74.3,216.6
+NJ,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.6526785,4.7,21.1
+NJ,Cancer,"Invasive cancer of the prostate, incidence",138.61041,50.6,253.8
+NJ,Cardiovascular Disease,Hospitalization for acute myocardial infarction,22.66,22.23,23.09
+NJ,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),44.8,42.9,46.8
+NJ,Cardiovascular Disease,Mortality from heart failure,74.3,72.5,76.2
+NJ,Cardiovascular Disease,Mortality from total cardiovascular diseases,260.5,255.7,265.4
+NJ,Chronic Kidney Disease,Mortality with end-stage renal disease,71.9,69.4,74.5
+NJ,Older Adults,Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years,9.05,8.81,9.29
+NM,Alcohol,Alcohol use among youth,25.462963,5.8,36.3
+NM,Alcohol,Alcohol use before pregnancy,48.743244,22.9,71.6
+NM,Alcohol,Binge drinking prevalence among youth,11.426666,3.6,19.0
+NM,Alcohol,Chronic liver disease mortality,31.507576,7.8,139.5
+NM,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.2,8.7,33.2
+NM,Asthma,Asthma mortality rate,14.408334,4.8,35.8
+NM,Asthma,Hospitalizations for asthma,8.424881,3.33,26.27
+NM,Cancer,"Cancer of the colon and rectum (colorectal), incidence",37.875,20.6,44.3
+NM,Cancer,"Cancer of the female breast, mortality",21.3,6.9,48.5
+NM,Cancer,"Cancer of the female cervix, mortality",1.98,1.1,2.8
+NM,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.6575,0.8,5.7
+NM,Cancer,"Cancer of the prostate, mortality",20.607292,5.9,63.1
+NM,Cancer,"Invasive cancer (all sites combined), incidence",372.70782,189.0,678.3
+NM,Cancer,"Invasive cancer (all sites combined), mortality",141.0961,55.3,266.2
+NM,Cancer,"Invasive cancer of the cervix, incidence",7.65875,3.9,11.7
+NM,Cancer,"Invasive cancer of the female breast, incidence",107.27143,41.0,214.7
+NM,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.198039,2.1,20.3
+NM,Cancer,"Invasive cancer of the prostate, incidence",93.25357,27.8,195.0
+NM,Cardiovascular Disease,Mortality from heart failure,65.1,60.9,69.2
+NM,Chronic Kidney Disease,Mortality with end-stage renal disease,54.5,50.1,59.0
+NM,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,125.1,114.0,136.1
+NM,"Nutrition, Physical Activity, and Weight Status",Television viewing among high school students,21.4,19.3,23.7
+NV,Alcohol,Alcohol use among youth,29.47826,10.1,48.7
+NV,Alcohol,Binge drinking prevalence among youth,12.671429,1.5,23.3
+NV,Alcohol,Chronic liver disease mortality,14.171429,2.3,105.5
+NV,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,18.7625,8.5,36.0
+NV,Arthritis,Arthritis among adults aged >= 18 years,11.9,8.6,16.1
+NV,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,31.4,26.1,37.1
+NV,Asthma,Asthma mortality rate,11.193334,4.3,27.4
+NV,Asthma,Emergency department visit rate for asthma,57.733624,14.42,167.01
+NV,Asthma,Hospitalizations for asthma,8.523654,1.51,30.24
+NV,Cancer,"Cancer of the colon and rectum (colorectal), incidence",16.569231,0.3,42.5
+NV,Cancer,"Cancer of the female breast, mortality",21.989584,4.9,38.2
+NV,Cancer,"Cancer of the female cervix, mortality",2.7375,1.3,4.6
+NV,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3527777,0.3,5.4
+NV,Cancer,"Cancer of the prostate, mortality",17.701042,2.2,47.8
+NV,Cancer,"Invasive cancer (all sites combined), incidence",253.25,3.1,495.6
+NV,Cancer,"Invasive cancer (all sites combined), mortality",142.2172,36.8,267.1
+NV,Cancer,"Invasive cancer of the cervix, incidence",5.5104165,0.4,11.2
+NV,Cancer,"Invasive cancer of the female breast, incidence",64.15625,0.7,141.1
+NV,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.4232144,0.3,19.9
+NV,Cancer,"Invasive cancer of the prostate, incidence",56.021427,0.3,145.0
+NV,Cancer,"Melanoma, mortality",3.0,2.7,3.3
+NV,Cardiovascular Disease,Cholesterol screening among adults aged >= 18 years,75.45,71.4,79.7
+NV,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,32.1,28.3,36.1
+NV,Cardiovascular Disease,Mortality from coronary heart disease,119.9,116.1,123.8
+NV,Cardiovascular Disease,Mortality from heart failure,58.5,15.2,99.3
+NV,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as any diagnosis,350.77,346.07,355.46
+NV,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,34.75,33.67,35.84
+NV,Diabetes,Foot examination among adults aged >= 18 years with diagnosed diabetes,63.6,50.5,74.9
+NV,Diabetes,Mortality due to diabetes reported as any listed cause of death,15.8,12.9,18.7
+NV,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,1.4,1.0,1.9
+NV,Diabetes,Prevalence of diagnosed diabetes among adults aged >= 18 years,10.633333,8.7,13.9
+NV,Diabetes,Visits to dentist or dental clinic among adults aged >= 18 years with diagnosed diabetes,57.8,49.2,66.0
+NV,Immunization,Influenza vaccination among noninstitutionalized adults aged >= 18 years,33.75,24.5,43.9
+NV,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,18.85,12.7,26.8
+NV,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,4.233333,2.4,5.8
+NV,"Nutrition, Physical Activity, and Weight Status",Obesity among adults aged >= 18 years,26.1,23.0,29.5
+NV,Oral Health,All teeth lost among adults aged >= 65 years,15.85,11.1,23.4
+NV,Oral Health,Six or more teeth lost among adults aged >= 65 years,35.6,30.2,41.3
+NV,Oral Health,Visits to dentist or dental clinic among adults aged >= 18 years,51.3,45.2,57.4
+NV,Overarching Conditions,Current lack of health insurance among adults aged 18-64 years,31.4,27.8,35.2
+NV,Overarching Conditions,Poverty,16.1,15.3,16.9
+NV,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,61.725,55.0,66.6
+NV,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,3.0,1.3,7.3
+NV,Overarching Conditions,Recent physically unhealthy days among adults aged >= 18 years,4.6666665,3.2,6.2
+NV,Reproductive Health,Timeliness of routine health care checkup among women aged 18-44 years,58.9,54.6,63.0
+NV,Tobacco,Current cigarette smoking among women aged 18-44 years,12.6,3.1,25.0
+NV,Tobacco,Current smoking among adults aged >= 18 years,13.075,7.0,21.9
+NV,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke,14.3,6.1,22.5
+NV,Tobacco,Quit attempts in the past year among current smokers,63.866665,42.8,89.8
+NY,Alcohol,Alcohol use among youth,25.590626,6.3,59.2
+NY,Alcohol,Alcohol use before pregnancy,46.44808,19.0,87.0
+NY,Alcohol,Binge drinking frequency among adults aged >= 18 years who binge drink,3.84,2.5,5.3
+NY,Alcohol,Binge drinking intensity among adults aged >= 18 years who binge drink,7.7,7.3,8.0
+NY,Alcohol,Binge drinking prevalence among adults aged >= 18 years,14.4,9.8,18.4
+NY,Alcohol,Binge drinking prevalence among women aged 18-44 years,12.1,9.1,15.8
+NY,Alcohol,Binge drinking prevalence among youth,10.605556,0.5,23.0
+NY,Alcohol,Chronic liver disease mortality,7.096795,1.4,43.9
+NY,Alcohol,Heavy drinking among adults aged >= 18 years,5.02,2.0,9.9
+NY,Alcohol,Heavy drinking among women aged 18-44 years,8.7,6.1,12.2
+NY,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,12.2,4.0,21.0
+NY,Arthritis,Arthritis among adults aged >= 18 years,22.45,9.4,40.9
+NY,Arthritis,Arthritis among adults aged >= 18 years who are obese,29.48,12.2,43.2
+NY,Arthritis,Arthritis among adults aged >= 18 years who have diabetes,41.816666,23.5,56.1
+NY,Arthritis,Arthritis among adults aged >= 18 years who have heart disease,36.1,18.7,65.6
+NY,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,38.775,26.3,66.9
+NY,Arthritis,Physical inactivity among adults aged >= 18 years with arthritis,38.95,27.7,54.3
+NY,Asthma,Asthma mortality rate,16.892424,4.3,51.9
+NY,Asthma,Current asthma prevalence among adults aged >= 18 years,6.0,4.2,8.5
+NY,Asthma,Emergency department visit rate for asthma,94.3971,16.7,246.5
+NY,Asthma,Hospitalizations for asthma,16.634531,3.64,41.69
+NY,Asthma,Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma,25.5,22.7,28.6
+NY,Asthma,Influenza vaccination among noninstitutionalized adults aged >= 65 years with asthma,55.6,45.7,66.2
+NY,Cancer,"Cancer of the colon and rectum (colorectal), incidence",31.92,6.6,50.3
+NY,Cancer,"Cancer of the female breast, mortality",20.390625,7.3,33.0
+NY,Cancer,"Cancer of the female cervix, mortality",2.85,2.2,4.5
+NY,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.2741072,1.0,4.2
+NY,Cancer,"Cancer of the prostate, mortality",17.809376,3.5,46.9
+NY,Cancer,"Fecal occult blood test, sigmoidoscopy, or colonoscopy among adults aged 50-75 years",70.1,66.3,73.6
+NY,Cancer,"Invasive cancer (all sites combined), incidence",362.0643,21.4,609.9
+NY,Cancer,"Invasive cancer (all sites combined), mortality",149.58304,72.5,232.7
+NY,Cancer,"Invasive cancer of the cervix, incidence",5.5958333,0.6,11.5
+NY,Cancer,"Invasive cancer of the female breast, incidence",90.3125,6.3,168.1
+NY,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.142858,0.7,20.3
+NY,Cancer,"Invasive cancer of the prostate, incidence",92.31458,4.2,167.6
+NY,Cancer,"Melanoma, mortality",2.5,2.4,2.6
+NY,Cancer,Papanicolaou smear use among adult women aged 21-65 years,76.5,62.7,86.3
+NY,Cardiovascular Disease,Awareness of high blood pressure among women aged 18-44 years,12.5,10.5,14.9
+NY,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,39.9,37.5,42.4
+NY,Cardiovascular Disease,Mortality from coronary heart disease,123.6,106.2,141.6
+NY,Cardiovascular Disease,Mortality from heart failure,80.3,70.4,90.9
+NY,Cardiovascular Disease,Mortality from total cardiovascular diseases,273.5,270.3,276.7
+NY,Diabetes,Diabetes prevalence among women aged 18-44 years,5.266667,2.6,12.6
+NY,Diabetes,Dilated eye examination among adults aged >= 18 years with diagnosed diabetes,67.05,47.1,81.6
+NY,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,1.2,1.0,1.3
+NY,Diabetes,Prevalence of diagnosed diabetes among adults aged >= 18 years,8.8,5.7,13.3
+NY,Diabetes,Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes,61.95,55.5,69.7
+NY,Immunization,Influenza vaccination among noninstitutionalized adults aged >= 18 years,41.0,39.2,42.9
+NY,Mental Health,At least 14 recent mentally unhealthy days among women aged 18-44 years,16.2,14.1,18.6
+NY,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,4.8,2.7,8.4
+NY,"Nutrition, Physical Activity, and Weight Status",Obesity among adults aged >= 18 years,27.033333,24.9,28.6
+NY,Oral Health,No tooth loss among adults aged 18-64 years,60.16,38.3,71.7
+NY,Oral Health,Six or more teeth lost among adults aged >= 65 years,59.5,51.8,66.7
+NY,Oral Health,Visits to dentist or dental clinic among adults aged >= 18 years,69.8,68.9,70.7
+NY,Overarching Conditions,Current lack of health insurance among adults aged 18-64 years,17.525,10.8,32.5
+NY,Overarching Conditions,Fair or poor self-rated health status among adults aged >= 18 years,17.8,15.8,19.8
+NY,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,62.15,56.3,67.4
+NY,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,2.5666666,2.1,3.0
+NY,Overarching Conditions,Recent physically unhealthy days among adults aged >= 18 years,2.9,1.7,3.9
+NY,Overarching Conditions,Self-rated health status among women aged 18-44 years,90.15,86.7,93.1
+NY,Reproductive Health,Postpartum checkup,90.35,85.0,93.8
+NY,Tobacco,Current cigarette smoking among women aged 18-44 years,9.8,4.2,15.4
+NY,Tobacco,Current smokeless tobacco use among adults aged >= 18 years,2.5833333,1.0,5.7
+NY,Tobacco,Current smoking among adults aged >= 18 years,14.0,9.9,16.7
+NY,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke,23.7,18.5,29.8
+NY,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke,58.0,41.6,75.4
+NY,Tobacco,Quit attempts in the past year among current smokers,66.0,49.6,83.4
+OH,Alcohol,Alcohol use among youth,27.181818,12.3,39.6
+OH,Alcohol,Alcohol use before pregnancy,52.922222,15.9,80.6
+OH,Alcohol,Binge drinking frequency among adults aged >= 18 years who binge drink,4.5,2.9,6.0
+OH,Alcohol,Binge drinking intensity among adults aged >= 18 years who binge drink,8.825,5.7,14.6
+OH,Alcohol,Binge drinking prevalence among adults aged >= 18 years,16.31,8.0,25.5
+OH,Alcohol,Binge drinking prevalence among youth,13.528571,4.5,23.5
+OH,Alcohol,Chronic liver disease mortality,11.181061,3.5,22.2
+OH,Alcohol,Heavy drinking among adults aged >= 18 years,5.4666667,1.9,13.3
+OH,Alcohol,Heavy drinking among women aged 18-44 years,9.4,5.6,18.9
+OH,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,18.571428,8.2,43.3
+OH,Arthritis,Arthritis among adults aged >= 18 years,29.971428,18.4,47.1
+OH,Arthritis,Arthritis among adults aged >= 18 years who are obese,30.85,12.9,44.0
+OH,Arthritis,Arthritis among adults aged >= 18 years who have diabetes,53.5,49.8,57.1
+OH,Arthritis,Arthritis among adults aged >= 18 years who have heart disease,61.685715,33.8,79.2
+OH,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,33.075,23.0,47.4
+OH,Arthritis,Physical inactivity among adults aged >= 18 years with arthritis,37.42857,25.1,63.9
+OH,Asthma,Asthma mortality rate,13.518182,5.3,43.1
+OH,Asthma,Asthma prevalence among women aged 18-44 years,9.1,5.4,15.0
+OH,Asthma,Current asthma prevalence among adults aged >= 18 years,14.283334,9.1,30.3
+OH,Asthma,Influenza vaccination among noninstitutionalized adults aged 18-64 years with asthma,46.4,40.4,52.5
+OH,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma,39.55,31.8,46.8
+OH,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma,83.1,75.6,88.6
+OH,Cancer,"Cancer of the colon and rectum (colorectal), incidence",18.466667,0.0,53.2
+OH,Cancer,"Cancer of the female breast, mortality",21.184376,3.7,32.8
+OH,Cancer,"Cancer of the female cervix, mortality",2.6,1.3,3.5
+OH,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.724468,0.4,5.6
+OH,Cancer,"Cancer of the prostate, mortality",17.3125,2.0,47.6
+OH,Cancer,"Invasive cancer (all sites combined), incidence",286.83124,0.3,611.5
+OH,Cancer,"Invasive cancer (all sites combined), mortality",148.81094,31.2,239.4
+OH,Cancer,"Invasive cancer of the cervix, incidence",4.8072915,0.0,10.7
+OH,Cancer,"Invasive cancer of the female breast, incidence",69.10268,0.0,167.5
+OH,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.170536,0.0,23.7
+OH,Cancer,"Invasive cancer of the prostate, incidence",61.79018,0.0,148.4
+OH,Cancer,Mammography use among women aged 50-74 years,77.4,75.4,79.3
+OH,Cancer,"Melanoma, mortality",4.0,3.9,4.2
+OH,Cancer,Recent Papanicolaou smear use among women aged 21-44 years,91.3,84.8,95.1
+OH,Cardiovascular Disease,Awareness of high blood pressure among adults aged >= 18 years,33.35,29.4,36.7
+OH,Cardiovascular Disease,Awareness of high blood pressure among women aged 18-44 years,14.5,12.3,17.0
+OH,Cardiovascular Disease,Cholesterol screening among adults aged >= 18 years,76.95,54.8,90.3
+OH,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,37.5,31.1,43.1
+OH,Cardiovascular Disease,Mortality from coronary heart disease,49.2,40.3,58.1
+OH,Cardiovascular Disease,Mortality from heart failure,111.0,109.4,112.7
+OH,Chronic Kidney Disease,Prevalence of chronic kidney disease among adults aged >= 18 years,2.6,2.1,3.2
+OH,Diabetes,Dilated eye examination among adults aged >= 18 years with diagnosed diabetes,70.75,57.3,82.3
+OH,Diabetes,Foot examination among adults aged >= 18 years with diagnosed diabetes,79.15,61.3,91.6
+OH,Diabetes,Glycosylated hemoglobin measurement among adults aged >= 18 years with diagnosed diabetes,69.4,63.9,74.3
+OH,Diabetes,Prevalence of depressive disorders among adults aged >= 18 years with diagnosed diabetes,29.9,27.0,33.0
+OH,Diabetes,Prevalence of diagnosed diabetes among adults aged >= 18 years,10.6285715,4.2,16.3
+OH,Diabetes,Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes,69.6,66.0,73.0
+OH,Immunization,Influenza vaccination among noninstitutionalized adults aged >= 18 years,37.533333,30.5,44.2
+OH,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,5.4,2.3,10.3
+OH,"Nutrition, Physical Activity, and Weight Status",Healthy weight among adults aged >= 18 years,32.9,31.8,34.1
+OH,Oral Health,All teeth lost among adults aged >= 65 years,20.4,18.5,22.4
+OH,Oral Health,No tooth loss among adults aged 18-64 years,64.433334,58.4,77.7
+OH,Oral Health,Six or more teeth lost among adults aged >= 65 years,32.0,18.9,48.7
+OH,Oral Health,Visits to dentist or dental clinic among adults aged >= 18 years,65.6,53.0,76.0
+OH,Overarching Conditions,Current health care coverage among women aged 18-44 years,82.45,63.6,96.6
+OH,Overarching Conditions,Current lack of health insurance among adults aged 18-64 years,10.875,6.3,20.9
+OH,Overarching Conditions,Fair or poor self-rated health status among adults aged >= 18 years,15.4,14.6,16.3
+OH,Overarching Conditions,Prevalence of sufficient sleep among adults aged >= 18 years,59.4,57.4,61.3
+OH,Overarching Conditions,Recent activity limitation among adults aged >= 18 years,3.3333333,2.0,6.1
+OH,Overarching Conditions,Recent physically unhealthy days among adults aged >= 18 years,3.775,2.4,5.8
+OH,Reproductive Health,Folic acid supplementation,32.0,29.2,35.0
+OH,Tobacco,Current cigarette smoking among women aged 18-44 years,21.45,10.7,30.8
+OH,Tobacco,Current smokeless tobacco use among adults aged >= 18 years,4.75,4.1,5.5
+OH,Tobacco,Current smoking among adults aged >= 18 years,24.55,11.0,53.4
+OH,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years who smoke,35.7,31.1,40.7
+OH,Tobacco,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years who smoke,71.4,62.7,78.8
+OH,Tobacco,Quit attempts in the past year among current smokers,53.05,36.1,70.8
+OK,Alcohol,Alcohol use among youth,30.3625,13.7,48.1
+OK,Alcohol,Alcohol use before pregnancy,48.5383,4.6,80.1
+OK,Alcohol,Binge drinking frequency among adults aged >= 18 years who binge drink,5.0,4.1,6.0
+OK,Alcohol,Binge drinking intensity among adults aged >= 18 years who binge drink,5.4,5.1,5.6
+OK,Alcohol,Binge drinking prevalence among adults aged >= 18 years,14.411111,6.6,27.2
+OK,Alcohol,Binge drinking prevalence among women aged 18-44 years,15.2,12.9,17.9
+OK,Alcohol,Binge drinking prevalence among youth,14.086667,0.2,29.4
+OK,Alcohol,Chronic liver disease mortality,16.420666,3.5,50.3
+OK,Alcohol,Heavy drinking among adults aged >= 18 years,4.4,3.7,5.2
+OK,Alcohol,Heavy drinking among women aged 18-44 years,4.35,2.4,7.2
+OK,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.283333,7.8,38.7
+OK,Arthritis,Arthritis among adults aged >= 18 years,26.2,24.7,27.7
+OK,Arthritis,Arthritis among adults aged >= 18 years who are obese,29.4,12.1,41.8
+OK,Arthritis,Arthritis among adults aged >= 18 years who have diabetes,44.7,26.5,56.7
+OK,Arthritis,Arthritis among adults aged >= 18 years who have heart disease,52.725,33.2,64.7
+OK,Arthritis,Fair or poor health among adults aged >= 18 years with arthritis,37.05,29.6,42.6
+OK,Arthritis,Physical inactivity among adults aged >= 18 years with arthritis,37.0,29.7,45.1
+OK,Asthma,Asthma mortality rate,12.894594,4.6,25.8
+OK,Asthma,Current asthma prevalence among adults aged >= 18 years,12.516666,2.8,27.3
+OK,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged 18-64 years with asthma,42.7,35.7,50.0
+OK,Asthma,Pneumococcal vaccination among noninstitutionalized adults aged >= 65 years with asthma,87.2,79.4,92.4
+OK,Cancer,"Cancer of the colon and rectum (colorectal), incidence",25.291666,0.6,49.9
+OK,Cancer,"Cancer of the female breast, mortality",20.938393,3.7,40.5
+OK,Cancer,"Cancer of the female cervix, mortality",3.35,1.9,5.4
+OK,Cancer,"Cancer of the lung and bronchus, mortality",25.2,19.5,32.0
+OK,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.946875,1.1,5.6
+OK,Cancer,"Cancer of the prostate, mortality",20.365625,1.1,65.0
+OK,Cancer,"Invasive cancer (all sites combined), incidence",275.80548,4.4,547.0
+OK,Cancer,"Invasive cancer (all sites combined), mortality",165.44766,33.0,257.6
+OK,Cancer,"Invasive cancer of the cervix, incidence",5.363393,0.2,15.6
+OK,Cancer,"Invasive cancer of the female breast, incidence",67.02232,1.4,150.0
+OK,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.7953124,0.1,23.2
+OK,Cancer,"Invasive cancer of the prostate, incidence",55.54286,0.5,140.3
+OK,Cancer,"Invasive melanoma, incidence",17.0,16.4,17.6
+OK,Cancer,Mammography use among women aged 50-74 years,76.35,67.2,89.1
+OK,Cancer,Papanicolaou smear use among adult women aged 21-65 years,80.7,78.2,83.0
+OK,Cardiovascular Disease,Awareness of high blood pressure among women aged 18-44 years,24.9,15.0,38.6
+OK,Cardiovascular Disease,Cholesterol screening among adults aged >= 18 years,79.26667,68.7,90.1
+OK,Cardiovascular Disease,High cholesterol prevalence among adults aged >= 18 years,32.6,30.8,34.5
+OK,Cardiovascular Disease,Mortality from coronary heart disease,116.3,51.4,153.9
+OK,Cardiovascular Disease,Mortality from heart failure,148.05,114.9,181.2
+OK,Chronic Kidney Disease,Prevalence of chronic kidney disease among adults aged >= 18 years,3.2333333,2.3,4.6
+OK,Diabetes,Foot examination among adults aged >= 18 years with diagnosed diabetes,62.666668,43.5,74.9
+OK,Diabetes,Prevalence of diagnosed diabetes among adults aged >= 18 years,12.0,10.8,13.7
+OK,Diabetes,Prevalence of high blood pressure among adults aged >= 18 years with diagnosed diabetes,79.6,75.0,83.5
+OK,Diabetes,Prevalence of high cholesterol among adults aged >= 18 years with diagnosed diabetes,66.0,60.7,70.9
+OK,Immunization,Influenza vaccination among noninstitutionalized adults aged >= 18 years,44.25,42.1,46.9
+OK,Mental Health,Recent mentally unhealthy days among adults aged >= 18 years,3.25,2.1,4.1
+OK,Older Adults,Hospitalization for hip fracture among Medicare-eligible persons aged >= 65 years,15.29,14.8,15.78
+OK,Oral Health,Preventive dental care before pregnancy,37.1,27.2,48.3
+OR,Alcohol,Alcohol use before pregnancy,53.230232,24.2,82.7
+OR,Alcohol,Chronic liver disease mortality,17.178226,2.9,83.1
+OR,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,24.09091,15.0,46.2
+OR,Asthma,Asthma mortality rate,14.832894,5.1,32.9
+OR,Asthma,Emergency department visit rate for asthma,37.828438,12.31,105.27
+OR,Asthma,Hospitalizations for asthma,5.058214,0.86,19.1
+OR,Cancer,"Cancer of the colon and rectum (colorectal), incidence",20.414286,0.4,44.4
+OR,Cancer,"Cancer of the female breast, mortality",18.580357,3.5,40.8
+OR,Cancer,"Cancer of the female cervix, mortality",1.9,1.5,2.3
+OR,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.9557142,0.4,5.8
+OR,Cancer,"Cancer of the prostate, mortality",20.070652,1.8,73.7
+OR,Cancer,"Invasive cancer (all sites combined), incidence",282.96796,5.4,563.5
+OR,Cancer,"Invasive cancer (all sites combined), mortality",148.32968,32.7,238.2
+OR,Cancer,"Invasive cancer of the cervix, incidence",4.55,0.1,11.3
+OR,Cancer,"Invasive cancer of the female breast, incidence",73.99197,1.3,172.3
+OR,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.5382814,0.1,23.9
+OR,Cancer,"Invasive cancer of the prostate, incidence",58.48125,0.5,149.6
+OR,Cancer,"Invasive melanoma, incidence",29.7,25.7,34.1
+OR,Cardiovascular Disease,Mortality from coronary heart disease,64.4,62.1,66.7
+OR,Cardiovascular Disease,Mortality from heart failure,38.7,27.5,52.0
+OR,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,22.05,21.02,23.07
+OR,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,228.2,218.0,238.4
+OR,Disability,Disability among adults aged >= 65 years,43.5,35.0,51.9
+PA,Alcohol,Alcohol use among youth,26.29,5.3,36.9
+PA,Alcohol,Alcohol use before pregnancy,50.987755,7.1,85.5
+PA,Alcohol,Binge drinking prevalence among youth,10.466666,1.0,18.0
+PA,Alcohol,Chronic liver disease mortality,8.923485,2.6,17.3
+PA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.96,7.4,40.9
+PA,Asthma,Asthma mortality rate,12.016364,4.3,40.5
+PA,Cancer,"Cancer of the colon and rectum (colorectal), incidence",29.0125,0.0,59.9
+PA,Cancer,"Cancer of the female breast, mortality",21.785418,5.3,35.1
+PA,Cancer,"Cancer of the female cervix, mortality",2.35,1.0,5.1
+PA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.2857144,0.4,4.9
+PA,Cancer,"Cancer of the prostate, mortality",18.708334,1.1,56.2
+PA,Cancer,"Invasive cancer (all sites combined), incidence",317.6039,0.3,646.4
+PA,Cancer,"Invasive cancer (all sites combined), mortality",151.95157,21.8,252.6
+PA,Cancer,"Invasive cancer of the cervix, incidence",5.4875,0.1,14.5
+PA,Cancer,"Invasive cancer of the female breast, incidence",75.63214,0.1,174.4
+PA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.803572,0.1,24.0
+PA,Cancer,"Invasive cancer of the prostate, incidence",67.39375,0.0,164.8
+PA,Cancer,"Invasive melanoma, incidence",28.9,28.4,29.5
+PA,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),40.05,15.3,62.9
+PA,Cardiovascular Disease,Mortality from coronary heart disease,99.7,36.8,136.5
+PA,Cardiovascular Disease,Mortality from total cardiovascular diseases,325.3,322.1,328.4
+PA,Oral Health,Preventive dental care before pregnancy,57.4,52.0,62.7
+PA,Reproductive Health,Postpartum checkup,83.1,71.9,90.4
+PR,Alcohol,Alcohol use among youth,25.4,17.3,33.1
+PR,Alcohol,Alcohol use before pregnancy,42.4125,33.2,50.3
+PR,Alcohol,Binge drinking prevalence among youth,9.41,4.5,15.2
+PR,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,8.65,4.9,15.8
+RI,Alcohol,Alcohol use among youth,24.196,7.3,45.7
+RI,Alcohol,Alcohol use before pregnancy,53.566666,16.4,89.4
+RI,Alcohol,Binge drinking prevalence among youth,10.45,0.6,20.1
+RI,Alcohol,Chronic liver disease mortality,12.822727,3.9,27.5
+RI,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,10.657143,5.9,15.6
+RI,Asthma,Emergency department visit rate for asthma,59.81205,5.71,136.55
+RI,Asthma,Hospitalizations for asthma,12.341389,3.18,40.2
+RI,Cancer,"Cancer of the colon and rectum (colorectal), incidence",9.8,0.3,35.8
+RI,Cancer,"Cancer of the female breast, mortality",19.805,3.3,39.2
+RI,Cancer,"Cancer of the female cervix, mortality",1.5,0.9,2.4
+RI,Cancer,"Cancer of the lung and bronchus, incidence",83.7,80.3,87.2
+RI,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.165625,0.6,4.3
+RI,Cancer,"Cancer of the prostate, mortality",19.82,2.6,53.4
+RI,Cancer,"Invasive cancer (all sites combined), incidence",318.6125,0.8,631.1
+RI,Cancer,"Invasive cancer (all sites combined), mortality",142.7797,36.0,266.1
+RI,Cancer,"Invasive cancer of the cervix, incidence",7.3484373,3.8,16.3
+RI,Cancer,"Invasive cancer of the female breast, incidence",87.65,0.2,189.9
+RI,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",9.807292,0.2,23.0
+RI,Cancer,"Invasive cancer of the prostate, incidence",80.16875,0.3,195.0
+RI,Cancer,"Invasive melanoma, incidence",33.2,31.0,35.5
+RI,Cardiovascular Disease,Mortality from coronary heart disease,141.7,114.3,180.7
+RI,Cardiovascular Disease,Mortality from heart failure,114.1,105.0,123.2
+RI,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as first-listed diagnosis,50.5,48.29,52.72
+RI,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,252.8,233.0,272.6
+SC,Alcohol,Alcohol use among youth,25.173914,11.2,45.1
+SC,Alcohol,Binge drinking prevalence among youth,9.771428,0.9,19.5
+SC,Alcohol,Chronic liver disease mortality,13.078071,4.0,27.5
+SC,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.308332,6.3,44.7
+SC,Asthma,Asthma mortality rate,14.694118,4.1,41.4
+SC,Asthma,Emergency department visit rate for asthma,48.185925,4.26,143.6
+SC,Asthma,Hospitalizations for asthma,8.290313,0.76,22.67
+SC,Cancer,"Cancer of the colon and rectum (colorectal), incidence",21.788889,0.1,51.7
+SC,Cancer,"Cancer of the female breast, mortality",21.092045,2.8,32.6
+SC,Cancer,"Cancer of the female cervix, mortality",2.475,1.9,2.9
+SC,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.37875,1.2,6.2
+SC,Cancer,"Cancer of the prostate, mortality",23.258333,1.3,56.4
+SC,Cancer,"Invasive cancer (all sites combined), incidence",283.81094,0.5,608.9
+SC,Cancer,"Invasive cancer (all sites combined), mortality",145.97421,24.0,236.0
+SC,Cancer,"Invasive cancer of the cervix, incidence",6.2175,2.1,13.0
+SC,Cancer,"Invasive cancer of the female breast, incidence",72.17411,0.1,169.1
+SC,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.64375,0.0,25.3
+SC,Cancer,"Invasive cancer of the prostate, incidence",67.20536,0.1,162.0
+SC,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),57.9,54.9,60.8
+SC,Cardiovascular Disease,Mortality from coronary heart disease,30.2,19.6,44.6
+SC,Cardiovascular Disease,Mortality from heart failure,130.3,123.9,136.7
+SC,Cardiovascular Disease,Mortality from total cardiovascular diseases,235.7,231.7,239.8
+SC,Chronic Kidney Disease,Mortality with end-stage renal disease,48.05,7.6,88.5
+SC,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,238.2,231.1,245.3
+SC,Diabetes,Amputation of a lower extremity attributable to diabetes,3.32,3.1,3.54
+SC,"Nutrition, Physical Activity, and Weight Status",Meeting aerobic physical activity guidelines among high school students,19.7,13.6,27.5
+SD,Alcohol,Alcohol use among youth,28.45,18.2,42.8
+SD,Alcohol,Alcohol use before pregnancy,48.45357,6.1,79.8
+SD,Alcohol,Binge drinking prevalence among youth,15.875,9.6,26.8
+SD,Alcohol,Chronic liver disease mortality,30.937273,4.5,221.3
+SD,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.055555,10.4,30.1
+SD,Asthma,Asthma mortality rate,21.7,11.5,37.5
+SD,Asthma,Hospitalizations for asthma,7.2902565,2.05,36.44
+SD,Cancer,"Cancer of the female breast, mortality",21.3,6.2,34.8
+SD,Cancer,"Cancer of the female cervix, mortality",1.7,0.8,3.1
+SD,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.421875,0.6,4.9
+SD,Cancer,"Cancer of the prostate, mortality",20.374193,4.7,53.1
+SD,Cancer,"Invasive cancer (all sites combined), incidence",276.76407,1.3,583.8
+SD,Cancer,"Invasive cancer (all sites combined), mortality",140.0961,15.4,269.4
+SD,Cancer,"Invasive cancer of the cervix, incidence",5.1125,0.7,8.6
+SD,Cancer,"Invasive cancer of the female breast, incidence",78.40417,0.4,164.9
+SD,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",10.77625,0.3,24.2
+SD,Cancer,"Invasive cancer of the prostate, incidence",84.92625,0.5,157.7
+SD,Cancer,"Melanoma, mortality",2.2,1.6,2.9
+SD,Cardiovascular Disease,Mortality from coronary heart disease,134.775,95.8,169.9
+SD,Cardiovascular Disease,Mortality from heart failure,157.7,115.0,211.0
+SD,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,264.45,241.9,287.1
+SD,Diabetes,Hospitalization with diabetes as a listed diagnosis,95.2,79.34,111.05
+SD,Overarching Conditions,Poverty,14.5,13.6,15.4
+SD,Overarching Conditions,Premature mortality among adults aged 45-64 years,636.6,590.2,683.0
+TN,Alcohol,Alcohol use among youth,25.13889,9.9,46.9
+TN,Alcohol,Alcohol use before pregnancy,44.541668,4.6,71.4
+TN,Alcohol,Binge drinking prevalence among youth,9.946154,1.5,21.8
+TN,Alcohol,Chronic liver disease mortality,12.649107,4.2,26.8
+TN,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,19.28,11.8,42.3
+TN,Asthma,Asthma mortality rate,12.466666,3.0,45.8
+TN,Cancer,"Cancer of the female breast, mortality",21.376667,1.8,36.3
+TN,Cancer,"Cancer of the female cervix, mortality",3.1,2.3,5.4
+TN,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.3125,1.3,5.8
+TN,Cancer,"Cancer of the prostate, mortality",21.465279,1.3,57.8
+TN,Cancer,"Invasive cancer (all sites combined), incidence",284.32812,0.4,614.2
+TN,Cancer,"Invasive cancer (all sites combined), mortality",147.50859,17.3,248.7
+TN,Cancer,"Invasive cancer of the cervix, incidence",6.001087,0.0,15.0
+TN,Cancer,"Invasive cancer of the female breast, incidence",67.30982,0.1,155.6
+TN,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",8.766071,0.1,25.4
+TN,Cancer,"Invasive cancer of the prostate, incidence",63.1,0.1,152.3
+TN,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),50.3,48.6,52.0
+TN,Cardiovascular Disease,Mortality from coronary heart disease,114.73333,21.3,184.7
+TN,Cardiovascular Disease,Mortality from heart failure,109.5,105.9,113.1
+TN,Chronic Kidney Disease,Mortality with end-stage renal disease,87.7,84.6,90.8
+TN,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,281.7,273.8,289.7
+TN,"Nutrition, Physical Activity, and Weight Status",Meeting aerobic physical activity guidelines among high school students,25.9,24.2,27.7
+TN,Oral Health,Preventive dental care before pregnancy,56.5,51.4,61.5
+TN,Reproductive Health,Postpartum checkup,90.0,86.9,92.5
+TX,Alcohol,Alcohol use among youth,29.427778,11.7,48.0
+TX,Alcohol,Alcohol use before pregnancy,46.93,15.6,76.5
+TX,Alcohol,Binge drinking prevalence among youth,11.976923,1.3,25.0
+TX,Alcohol,Chronic liver disease mortality,11.946104,1.4,22.4
+TX,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.9,8.3,48.0
+TX,Asthma,Asthma mortality rate,9.167424,1.5,29.8
+TX,Cancer,"Cancer of the female breast, mortality",17.359821,1.8,35.2
+TX,Cancer,"Cancer of the female cervix, mortality",2.7,1.0,4.4
+TX,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3446429,0.8,4.4
+TX,Cancer,"Cancer of the prostate, mortality",15.477083,1.8,41.9
+TX,Cancer,"Invasive cancer (all sites combined), incidence",251.93282,1.1,502.4
+TX,Cancer,"Invasive cancer (all sites combined), mortality",126.80391,15.5,218.0
+TX,Cancer,"Invasive cancer of the cervix, incidence",5.367857,0.0,12.3
+TX,Cancer,"Invasive cancer of the female breast, incidence",63.747322,0.3,124.5
+TX,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",6.603906,0.0,17.8
+TX,Cancer,"Invasive cancer of the prostate, incidence",54.479465,0.2,120.8
+TX,Cardiovascular Disease,Mortality from coronary heart disease,55.6,37.8,70.3
+TX,Tobacco,Current cigarette smoking among youth,5.8,3.8,8.8
+US,Alcohol,Alcohol use among youth,29.54375,9.1,62.3
+US,Alcohol,Alcohol use before pregnancy,47.322224,17.5,69.7
+US,Alcohol,Binge drinking prevalence among youth,12.994445,2.4,41.5
+US,Alcohol,Chronic liver disease mortality,11.522727,9.3,15.8
+US,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.8,12.9,16.8
+US,Asthma,Asthma mortality rate,10.709091,9.1,13.0
+US,Cancer,"Cancer of the female breast, mortality",19.2125,7.3,31.4
+US,Cancer,"Cancer of the female cervix, mortality",2.2,1.6,2.7
+US,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3046875,0.8,4.5
+US,Cancer,"Cancer of the prostate, mortality",17.130358,4.9,47.9
+US,Cancer,"Invasive cancer (all sites combined), incidence",286.9586,2.5,552.6
+US,Cancer,"Invasive cancer (all sites combined), mortality",147.08203,61.6,232.0
+US,Cancer,"Invasive cancer of the cervix, incidence",4.5973215,0.1,10.5
+US,Cancer,"Invasive cancer of the female breast, incidence",71.93661,0.7,155.5
+US,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.315625,0.1,21.2
+US,Cancer,"Invasive cancer of the prostate, incidence",64.25893,0.5,143.1
+US,Cancer,"Melanoma, mortality",1.55,1.4,1.8
+US,Cardiovascular Disease,Mortality from coronary heart disease,94.3,94.0,94.6
+US,"Nutrition, Physical Activity, and Weight Status",Computer use among high school students,42.3,40.2,44.4
+US,"Nutrition, Physical Activity, and Weight Status",Obesity among high school students,12.4,10.5,14.6
+US,Reproductive Health,Folic acid supplementation,33.1,32.3,33.9
+UT,Alcohol,Alcohol use among youth,11.84,5.9,25.3
+UT,Alcohol,Alcohol use before pregnancy,27.830952,1.5,71.3
+UT,Alcohol,Binge drinking prevalence among youth,5.2454543,2.1,12.5
+UT,Alcohol,Chronic liver disease mortality,9.744643,3.3,128.0
+UT,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,16.127274,10.0,30.7
+UT,Asthma,Asthma mortality rate,13.39074,5.0,33.1
+UT,Asthma,Emergency department visit rate for asthma,28.716785,15.65,78.3
+UT,Asthma,Hospitalizations for asthma,5.756154,1.0,17.36
+UT,Cancer,"Cancer of the colon and rectum (colorectal), mortality",14.1,9.7,19.7
+UT,Cancer,"Cancer of the female breast, mortality",16.305,3.5,26.9
+UT,Cancer,"Cancer of the female cervix, mortality",1.275,0.9,1.7
+UT,Cancer,"Cancer of the oral cavity and pharynx, mortality",1.5765625,0.7,3.1
+UT,Cancer,"Cancer of the prostate, mortality",16.025,2.2,28.2
+UT,Cancer,"Invasive cancer (all sites combined), incidence",326.8414,111.7,541.4
+UT,Cancer,"Invasive cancer (all sites combined), mortality",101.37109,32.7,210.2
+UT,Cancer,"Invasive cancer of the cervix, incidence",5.4888887,3.4,13.6
+UT,Cancer,"Invasive cancer of the female breast, incidence",87.422325,15.6,157.8
+UT,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.8729167,1.8,15.3
+UT,Cancer,"Invasive cancer of the prostate, incidence",95.1875,12.8,276.1
+UT,Cardiovascular Disease,Mortality from coronary heart disease,40.233334,11.7,76.4
+UT,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,54.3,39.6,72.6
+UT,"Nutrition, Physical Activity, and Weight Status",Computer use among high school students,32.5,29.2,35.9
+UT,Reproductive Health,Folic acid supplementation,37.4,34.2,40.7
+UT,Tobacco,Cigarette smoking before pregnancy,8.8,7.4,10.5
+VA,Alcohol,Alcohol use among youth,22.685715,5.2,34.2
+VA,Alcohol,Alcohol use before pregnancy,47.62258,9.2,78.2
+VA,Alcohol,Binge drinking prevalence among youth,11.3625,2.4,18.5
+VA,Alcohol,Chronic liver disease mortality,9.254545,1.9,19.2
+VA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.525,8.0,51.1
+VA,Asthma,Asthma mortality rate,12.454545,3.5,40.3
+VA,Cancer,"Cancer of the female breast, mortality",20.107292,4.6,33.5
+VA,Cancer,"Cancer of the female cervix, mortality",2.0285714,0.9,3.3
+VA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.3927083,0.4,4.4
+VA,Cancer,"Cancer of the prostate, mortality",17.334375,1.6,50.5
+VA,Cancer,"Invasive cancer (all sites combined), incidence",252.88828,0.4,498.6
+VA,Cancer,"Invasive cancer (all sites combined), mortality",134.67032,30.9,213.8
+VA,Cancer,"Invasive cancer of the cervix, incidence",4.563542,0.2,14.7
+VA,Cancer,"Invasive cancer of the female breast, incidence",69.199104,0.1,154.2
+VA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.489286,0.2,20.6
+VA,Cancer,"Invasive cancer of the prostate, incidence",56.49107,0.1,136.2
+VA,Cardiovascular Disease,Mortality from cerebrovascular disease (stroke),20.7,4.6,36.8
+VA,Cardiovascular Disease,Mortality from coronary heart disease,41.6,9.9,73.3
+VA,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,100.8,97.1,104.4
+VA,Diabetes,Mortality due to diabetes reported as any listed cause of death,70.3,63.1,77.4
+VI,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,36.0,31.9,40.3
+VT,Alcohol,Alcohol use among youth,29.320833,10.5,43.8
+VT,Alcohol,Alcohol use before pregnancy,70.54737,64.4,77.0
+VT,Alcohol,Binge drinking prevalence among youth,15.655556,3.5,26.3
+VT,Alcohol,Chronic liver disease mortality,9.956977,2.6,23.2
+VT,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,13.5875,6.7,26.2
+VT,Asthma,Emergency department visit rate for asthma,46.814106,12.06,148.1
+VT,Asthma,Hospitalizations for asthma,3.76625,1.28,7.47
+VT,Cancer,"Cancer of the colon and rectum (colorectal), incidence",48.5,46.1,51.0
+VT,Cancer,"Cancer of the female breast, mortality",22.175,15.8,30.3
+VT,Cancer,"Cancer of the female cervix, mortality",1.4,0.8,2.2
+VT,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.378125,1.0,7.5
+VT,Cancer,"Cancer of the prostate, mortality",21.129168,17.0,26.8
+VT,Cancer,"Invasive cancer (all sites combined), incidence",298.95,0.3,648.8
+VT,Cancer,"Invasive cancer (all sites combined), mortality",148.20175,18.3,276.7
+VT,Cancer,"Invasive cancer of the cervix, incidence",4.60625,2.8,6.7
+VT,Cancer,"Invasive cancer of the female breast, incidence",122.25484,0.5,186.3
+VT,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",13.895312,4.9,28.2
+VT,Cancer,"Invasive cancer of the prostate, incidence",90.27903,0.4,158.7
+VT,Chronic Kidney Disease,Mortality with end-stage renal disease,50.7,44.0,57.3
+VT,Chronic Obstructive Pulmonary Disease,Hospitalization for chronic obstructive pulmonary disease as any diagnosis,206.25,201.06,211.45
+VT,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,111.7,95.1,128.4
+VT,Diabetes,Amputation of a lower extremity attributable to diabetes,1.39,1.13,1.66
+VT,Diabetes,Hospitalization with diabetes as a listed diagnosis,144.36,140.12,148.6
+VT,Diabetes,Mortality due to diabetes reported as any listed cause of death,115.3,87.1,147.4
+WA,Alcohol,Alcohol use before pregnancy,51.659374,23.5,82.8
+WA,Alcohol,Chronic liver disease mortality,15.651875,1.9,70.8
+WA,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,17.525,8.0,38.0
+WA,Asthma,Asthma mortality rate,11.771591,4.4,25.4
+WA,Asthma,Hospitalizations for asthma,5.3049107,1.89,17.59
+WA,Cancer,"Cancer of the female breast, mortality",17.62143,3.0,31.2
+WA,Cancer,"Cancer of the female cervix, mortality",1.8166667,1.0,3.4
+WA,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.5850878,0.2,5.2
+WA,Cancer,"Cancer of the prostate, mortality",16.33393,1.9,58.5
+WA,Cancer,"Invasive cancer (all sites combined), incidence",279.32266,6.3,537.7
+WA,Cancer,"Invasive cancer (all sites combined), mortality",140.99922,31.5,214.7
+WA,Cancer,"Invasive cancer of the cervix, incidence",3.9803572,0.1,13.6
+WA,Cancer,"Invasive cancer of the female breast, incidence",74.43661,1.8,161.1
+WA,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.2734375,0.1,21.5
+WA,Cancer,"Invasive cancer of the prostate, incidence",59.313393,0.8,143.7
+WA,Cancer,"Melanoma, mortality",4.0,3.8,4.3
+WI,Alcohol,Alcohol use among youth,29.473684,11.6,42.3
+WI,Alcohol,Alcohol use before pregnancy,57.0625,17.9,84.9
+WI,Alcohol,Binge drinking prevalence among youth,18.4,16.6,20.4
+WI,Alcohol,Chronic liver disease mortality,13.119565,3.3,90.5
+WI,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,14.3625,8.1,25.6
+WI,Asthma,Asthma mortality rate,12.188889,4.9,87.7
+WI,Asthma,Emergency department visit rate for asthma,61.217747,11.27,234.09
+WI,Asthma,Hospitalizations for asthma,8.720983,1.03,39.79
+WI,Cancer,"Cancer of the female breast, mortality",18.312263,2.5,37.9
+WI,Cancer,"Cancer of the female cervix, mortality",1.6,1.4,1.8
+WI,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.8095238,1.0,6.5
+WI,Cancer,"Cancer of the prostate, mortality",19.479269,1.2,50.9
+WI,Cancer,"Invasive cancer (all sites combined), incidence",293.50626,3.3,619.2
+WI,Cancer,"Invasive cancer (all sites combined), mortality",153.96484,28.8,249.8
+WI,Cancer,"Invasive cancer of the cervix, incidence",3.7607143,0.1,12.4
+WI,Cancer,"Invasive cancer of the female breast, incidence",71.97321,0.7,170.9
+WI,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",7.4335938,0.1,23.4
+WI,Cancer,"Invasive cancer of the prostate, incidence",64.80804,0.4,157.5
+WI,Cardiovascular Disease,Hospitalization for acute myocardial infarction,13.52,13.09,13.94
+WI,Cardiovascular Disease,Mortality from coronary heart disease,63.15,8.0,124.5
+WI,Diabetes,Amputation of a lower extremity attributable to diabetes,3.9,3.74,4.06
+WI,Diabetes,Mortality with diabetic ketoacidosis reported as any listed cause of death,0.7,0.5,0.9
+WV,Alcohol,Alcohol use among youth,31.51875,21.1,44.1
+WV,Alcohol,Alcohol use before pregnancy,43.77619,18.5,72.9
+WV,Alcohol,Binge drinking prevalence among youth,16.68,8.9,28.3
+WV,Alcohol,Chronic liver disease mortality,15.729546,4.4,33.0
+WV,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,11.5375,8.3,15.7
+WV,Asthma,Asthma mortality rate,12.246154,4.9,24.7
+WV,Asthma,Hospitalizations for asthma,7.2935486,2.01,21.49
+WV,Cancer,"Cancer of the female breast, mortality",27.573437,17.0,45.3
+WV,Cancer,"Cancer of the female cervix, mortality",3.4666667,2.5,4.7
+WV,Cancer,"Cancer of the oral cavity and pharynx, mortality",3.5279412,0.9,7.8
+WV,Cancer,"Cancer of the prostate, mortality",22.704687,15.4,73.9
+WV,Cancer,"Invasive cancer (all sites combined), incidence",304.46954,0.1,701.0
+WV,Cancer,"Invasive cancer (all sites combined), mortality",162.88852,13.1,287.2
+WV,Cancer,"Invasive cancer of the cervix, incidence",9.75625,8.0,12.2
+WV,Cancer,"Invasive cancer of the female breast, incidence",77.51489,0.3,171.0
+WV,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",12.3375,0.2,30.1
+WV,Cancer,"Invasive cancer of the prostate, incidence",82.910255,4.0,151.3
+WV,Cancer,"Melanoma, mortality",2.0,1.6,2.4
+WV,Cardiovascular Disease,Mortality from coronary heart disease,142.45,82.7,186.8
+WV,Cardiovascular Disease,Mortality from diseases of the heart,306.3,294.8,317.8
+WV,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years,187.3,177.9,196.7
+WV,Diabetes,Amputation of a lower extremity attributable to diabetes,5.98,5.52,6.45
+WV,"Nutrition, Physical Activity, and Weight Status",Healthy weight among high school students,62.7,59.5,65.8
+WV,"Nutrition, Physical Activity, and Weight Status",Median daily frequency of vegetable consumption among high school students,1.0,0.4,1.7
+WV,Tobacco,Cigarette smoking before pregnancy,40.8,37.3,44.4
+WY,Alcohol,Alcohol use among youth,33.672726,25.1,47.1
+WY,Alcohol,Alcohol use before pregnancy,56.95946,29.3,75.3
+WY,Alcohol,Binge drinking prevalence among youth,20.55,17.3,23.4
+WY,Alcohol,Chronic liver disease mortality,23.065556,6.7,406.2
+WY,Arthritis,Adults aged >= 18 years with arthritis who have taken a class to learn how to manage arthritis symptoms,15.325,5.3,37.3
+WY,Cancer,"Cancer of the female breast, mortality",21.277082,16.1,29.7
+WY,Cancer,"Cancer of the female cervix, mortality",1.925,1.2,2.9
+WY,Cancer,"Cancer of the lung and bronchus, incidence",36.7,13.4,59.4
+WY,Cancer,"Cancer of the oral cavity and pharynx, mortality",2.45625,0.6,5.4
+WY,Cancer,"Cancer of the prostate, mortality",17.09375,12.6,23.3
+WY,Cancer,"Invasive cancer (all sites combined), incidence",253.51328,1.0,522.8
+WY,Cancer,"Invasive cancer (all sites combined), mortality",129.50859,29.3,248.6
+WY,Cancer,"Invasive cancer of the cervix, incidence",7.28125,4.3,10.5
+WY,Cancer,"Invasive cancer of the female breast, incidence",88.5875,0.9,147.1
+WY,Cancer,"Invasive cancer of the oral cavity or pharynx, incidence",11.129687,4.3,20.0
+WY,Cancer,"Invasive cancer of the prostate, incidence",83.698784,0.5,161.6
+WY,Cardiovascular Disease,Mortality from coronary heart disease,108.1,90.8,129.3
+WY,Cardiovascular Disease,Mortality from total cardiovascular diseases,229.8,212.4,247.3
+WY,Chronic Obstructive Pulmonary Disease,Mortality with chronic obstructive pulmonary disease as underlying or contributing cause among adults aged >= 45 years,290.4,260.1,320.6
+WY,Overarching Conditions,Poverty,9.0,7.7,10.3
+WY,Overarching Conditions,Premature mortality among adults aged 45-64 years,647.7,587.9,707.4
+WY,Reproductive Health,Folic acid supplementation,30.7,19.0,45.6
